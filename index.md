@@ -53,6 +53,22 @@
 
 *  **Qiuping Jiang**, Feng Shao, Wei Gao, Zhuo Chen, Gangyi Jiang, Yo-Sung Ho, "Unified no-reference quality assessment of singly and multiply distorted stereoscopic images," <font color=red>IEEE Transactions on Image Processing (TIP)</font>, 28(4): 1866-1881, Apr. 2019.
 
+*  **Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang, "BLIQUE-TMI: Blind quality evaluator for tone-mapped images based on local and global feature analyses," <font color=red>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</font>, 29(2): 323-335, Feb. 2019.
+*  **Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang, "Learning sparse representation for objective image retargeting quality assessment," <font color=red>IEEE Transactions on Cybernetics (TCYB)</font>, 48(4): 1276-1289, Apr. 2018.
+*  **Qiuping Jiang**, Feng Shao, Weisi Lin, Ke Gu, Gangyi Jiang, Huifang Sun, "Optimizing multistage discriminative dictionaries for blind image quality assessment," <font color=red>IEEE Transactions on Multimedia (TMM)</font>, 20(8): 2035-2048, Aug. 2018.
+*  Xuejin Wang#, **Qiuping Jiang#**, Feng Shao, Ke Gu, Guangtao Zhai, Xiaokang Yang, "Exploiting local degradation characteristics and global statistical properties for blind assessment of tone-mapped HDR images," <font color=red>IEEE Transactions on Multimedia (TMM)</font>, accepted, 2020.
+*  Sheng Yang, Guosheng Lin, **Qiuping Jiang**, Weisi Lin, "A dilated inception network for visual saliency prediction," <font color=red>IEEE Transactions on Multimedia (TMM)</font>, 22(8): 2163-2176, Aug. 2020.
+*  Wujie Zhou, Jingsheng Lei, **Qiuping Jiang**, Lu Yu, Ting Luo, "Blind binocular visual quality predictor using deep fusion network," <font color=red>IEEE Transactions on Computational Imaging (TCI)</font>, 6: 883-893, 2020.
+*  Xiongli Chai, Feng Shao, **Qiuping Jiang**, Yo-Sung Ho, "MSTGAR: Multioperator based stereoscopic thumbnail generation with arbitrary resolution," <font color=red>IEEE Transactions on Multimedia (TMM)</font>, 22(5): 1208-1219, May 2020.
+*  Feng Shao, Ying Gao, **Qiuping Jiang**, Gangyi Jiang, Yo-Sung Ho, "Multistage pooling for quality prediction of asymmetric multiply distorted stereoscopic images," <font color=red>IEEE Transactions on Multimedia (TMM)</font>, 20(10): 2605-2619, Oct. 2018.
+*  Feng Shao, Zhuqing Zhang, **Qiuping Jiang**, Weisi Lin, Gangyi Jiang, "Towards domain transfer for no-reference quality prediction of asymmetrically distorted stereoscopic images," <font color=red>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</font>, 28(3): 573-585, Mar. 2018.
+*  Wei Gao, Sam Kwong, **Qiuping Jiang**, Chi-Keung Fong, Peter H. W. Wong, Wilson Y. F. Yuen, "Data-Driven rate control for rate distortion optimization in HEVC based on simplified effective initial QP learning," <font color=red>IEEE Transactions on Broadcasting (TBC)</font>, 65(1): 94-108, Mar. 2018.
+*  Feng Shao, Wenchong Lin, Weisi Lin, **Qiuping Jiang**, Gangyi Jiang, "QoE-guided warping for stereoscopic image retargeting," <font color=red>IEEE Transactions on Image Processing (TIP)</font>, 26(10): 4790-4805, Oct. 2017.
+*  Zhenqi Fu, Feng Shao, **Qiuping Jiang**, Xiangchao Meng, Yo-Sung Ho, "Subjective and objective quality assessment for stereoscopic 3D image retargeting," <font color=red>IEEE Transactions on Multimedia (TMM)</font>, accepted, 2020.
+*  Xiongli Chai, Feng Shao, **Qiuping Jiang**, Yo-Sung Ho, “Roundness-Preserving Warping for Aesthetic Enhancement-based Stereoscopic Image Editing,” <font color=red>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</font>, accepted, 2020.
+*  Feng Shao, Zhenqi Fu, **Qiuping Jiang**, Gangyi Jiang, Yo-Sung Ho, "Transformation-aware similarity measurement for image retargeting quality assessment via bi-directional rewarping," <font color=red>IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC-S)</font>, accepted, 2019.
+*  Ke Gu, Xin Xu, Junfei Qiao, **Qiuping Jiang**, Weisi Lin, Daniel Thalmann, "Learning a unified blind image quality metric via on-line and off-line big training instances," <font color=red>IEEE Transactions on Big Data (TBD)</font>, accepted, Jan. 2019.
+
 ## Tech Reports & Standardization Documents
 
 |      |                                                              |
