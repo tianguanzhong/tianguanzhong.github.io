@@ -1,3 +1,25 @@
+<table class="cv">
+  <tbody><tr>
+    <td>
+      <span class="blue_2"><font size="5"><strong>Qiuping Jiang</strong></font></span><br>
+      Ph.D., Associate Professor<br>
+      <a href="http://eecs.nbu.edu.cn/">School of Information Science and Engineering</a><br>
+      <a href="http://www.nbu.edu.cn/">Ningbo University</a><br>
+      Email: jiangqiuping@nbu.edu.cn<br>
+      <a href="https://scholar.google.com/citations?user=PbPTiKYAAAAJ/">[Google Scholar]</a><br>
+    </td>
+    <td>
+      <img src="picture.png" alt="Drawing" style="
+      height: 200px;
+      border: 5px solid #ccc;
+      border-radius: 10px;
+      -moz-border-radius: 10px;
+      -khtml-border-radius: 10px;
+      -webkit-border-radius: 10px;
+      ">
+    </td>
+  </tr>
+</tbody></table>
 
 ## Research Interest
 
