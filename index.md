@@ -44,9 +44,13 @@
 
 ## Publications
 
-*  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Yabin Zhang, Weisi Lin, "StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection," ***IEEE Transactions on Image Processing (TIP)***, submitted, 2020.
+*  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Yabin Zhang, Weisi Lin, 
+   "StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection," 
+   ***IEEE Transactions on Image Processing (TIP)***, submitted, 2020.
 
-*  **Qiuping Jiang**, Wei Zhou, Xiongli Chai, Guanghui Yue, Feng Shao, Zhibo Chen, ["A full-reference stereoscopic image quality measurement via hierarchical deep feature degradation fusion,"](https://ieeexplore.ieee.org/document/9127513) ***IEEE Transactions on Instrumentation and Measurement (TIM)***, accepted, 2020.
+*  **Qiuping Jiang**, Wei Zhou, Xiongli Chai, Guanghui Yue, Feng Shao, Zhibo Chen, 
+   ["A full-reference stereoscopic image quality measurement via hierarchical deep feature degradation fusion,"](https://ieeexplore.ieee.org/document/9127513) 
+   ***IEEE Transactions on Instrumentation and Measurement (TIM)***, accepted, 2020.
 
 *  **Qiuping Jiang**, Wei Gao, Shiqi Wang, Guanghui Yue, Feng Shao, Yo-Sung Ho, Sam Kwong, ["Blind image quality measurement by exploiting high order statistics with deep dictionary encoding network,"](https://ieeexplore.ieee.org/document/9055066/) ***IEEE Transactions on Instrumentation and Measurement (TIM)***, accepted, 2020.
 
