@@ -52,7 +52,7 @@
 
 *  **Qiuping Jiang**, Feng Shao, Wei Gao, Zhuo Chen, Gangyi Jiang, Yo-Sung Ho, ["Unified no-reference quality assessment of singly and multiply distorted stereoscopic images,"](https://ieeexplore.ieee.org/document/8540445) <font color=red>IEEE Transactions on Image Processing (TIP)</font>, 28(4): 1866-1881, Apr. 2019.
 
-*  **Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang, "BLIQUE-TMI: Blind quality evaluator for tone-mapped images based on local and global feature analyses," <font color=red>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</font>, 29(2): 323-335, Feb. 2019.
+*  **Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang, ["BLIQUE-TMI: Blind quality evaluator for tone-mapped images based on local and global feature analyses,"](https://ieeexplore.ieee.org/document/8214257/) <font color=red>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</font>, 29(2): 323-335, Feb. 2019.
 *  **Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang, "Learning sparse representation for objective image retargeting quality assessment," <font color=red>IEEE Transactions on Cybernetics (TCYB)</font>, 48(4): 1276-1289, Apr. 2018.
 *  **Qiuping Jiang**, Feng Shao, Weisi Lin, Ke Gu, Gangyi Jiang, Huifang Sun, "Optimizing multistage discriminative dictionaries for blind image quality assessment," <font color=red>IEEE Transactions on Multimedia (TMM)</font>, 20(8): 2035-2048, Aug. 2018.
 *  Xuejin Wang#, **Qiuping Jiang#**, Feng Shao, Ke Gu, Guangtao Zhai, Xiaokang Yang, "Exploiting local degradation characteristics and global statistical properties for blind assessment of tone-mapped HDR images," <font color=red>IEEE Transactions on Multimedia (TMM)</font>, accepted, 2020.
