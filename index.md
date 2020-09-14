@@ -38,9 +38,9 @@
 ## Education and Experience
 
 | ------------------- | ------------------------------------------------------------ |
+| Jul. 2018 - present | **Associate Professor in Electrical and Electronic Engineering**, Ningbo University, Ningbo, China |
 | Jan. 2017 - May  2018 | **Visiting Ph.D. student in Computer Science and Engineering**, Nanyang Technological University, Singapore |
 | Sep. 2015 - Jun. 2018 | **Ph.D. in Electrical and Electronic Engineering**, Ningbo University, Ningbo, China |
-| Jul. 2018 - present | **Associate Professor in Electrical and Electronic Engineering**, Ningbo University, Ningbo, China |
 
 
 ## Publications
