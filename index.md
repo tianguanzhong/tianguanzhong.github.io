@@ -44,17 +44,17 @@
 
 ## Publications
 
-*  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Yabin Zhang, Weisi Lin, "StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection," <font color=blue>IEEE Transactions on Image Processing (TIP)</font>, submitted, 2020.
+*  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Yabin Zhang, Weisi Lin, "StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection," ***IEEE Transactions on Image Processing (TIP)***, submitted, 2020.
 
-*  **Qiuping Jiang**, Wei Zhou, Xiongli Chai, Guanghui Yue, Feng Shao, Zhibo Chen, ["A full-reference stereoscopic image quality measurement via hierarchical deep feature degradation fusion,"](https://ieeexplore.ieee.org/document/9127513) <font color=blue>IEEE Transactions on Instrumentation and Measurement (TIM)</font>, accepted, 2020.
+*  **Qiuping Jiang**, Wei Zhou, Xiongli Chai, Guanghui Yue, Feng Shao, Zhibo Chen, ["A full-reference stereoscopic image quality measurement via hierarchical deep feature degradation fusion,"](https://ieeexplore.ieee.org/document/9127513) ***IEEE Transactions on Instrumentation and Measurement (TIM)***, accepted, 2020.
 
-*  **Qiuping Jiang**, Wei Gao, Shiqi Wang, Guanghui Yue, Feng Shao, Yo-Sung Ho, Sam Kwong, ["Blind image quality measurement by exploiting high order statistics with deep dictionary encoding network,"](https://ieeexplore.ieee.org/document/9055066/) <font color=red>IEEE Transactions on Instrumentation and Measurement (TIM)</font>, accepted, 2020.
+*  **Qiuping Jiang**, Wei Gao, Shiqi Wang, Guanghui Yue, Feng Shao, Yo-Sung Ho, Sam Kwong, ["Blind image quality measurement by exploiting high order statistics with deep dictionary encoding network,"](https://ieeexplore.ieee.org/document/9055066/) ***IEEE Transactions on Instrumentation and Measurement (TIM)***, accepted, 2020.
 
-*  **Qiuping Jiang**, Feng Shao, Wei Gao, Zhuo Chen, Gangyi Jiang, Yo-Sung Ho, ["Unified no-reference quality assessment of singly and multiply distorted stereoscopic images,"](https://ieeexplore.ieee.org/document/8540445) <font color=red>IEEE Transactions on Image Processing (TIP)</font>, 28(4): 1866-1881, Apr. 2019.
+*  **Qiuping Jiang**, Feng Shao, Wei Gao, Zhuo Chen, Gangyi Jiang, Yo-Sung Ho, ["Unified no-reference quality assessment of singly and multiply distorted stereoscopic images,"](https://ieeexplore.ieee.org/document/8540445) ***IEEE Transactions on Image Processing (TIP)***, 28(4): 1866-1881, Apr. 2019.
 
-*  **Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang, ["BLIQUE-TMI: Blind quality evaluator for tone-mapped images based on local and global feature analyses,"](https://ieeexplore.ieee.org/document/8214257/) <font color=red>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</font>, 29(2): 323-335, Feb. 2019.
-*  **Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang, "Learning sparse representation for objective image retargeting quality assessment," <font color=red>IEEE Transactions on Cybernetics (TCYB)</font>, 48(4): 1276-1289, Apr. 2018.
-*  **Qiuping Jiang**, Feng Shao, Weisi Lin, Ke Gu, Gangyi Jiang, Huifang Sun, "Optimizing multistage discriminative dictionaries for blind image quality assessment," <font color=red>IEEE Transactions on Multimedia (TMM)</font>, 20(8): 2035-2048, Aug. 2018.
+*  **Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang, ["BLIQUE-TMI: Blind quality evaluator for tone-mapped images based on local and global feature analyses,"](https://ieeexplore.ieee.org/document/8214257/) ***IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)***, 29(2): 323-335, Feb. 2019.
+*  **Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang, "Learning sparse representation for objective image retargeting quality assessment," ***IEEE Transactions on Cybernetics (TCYB)***, 48(4): 1276-1289, Apr. 2018.
+*  **Qiuping Jiang**, Feng Shao, Weisi Lin, Ke Gu, Gangyi Jiang, Huifang Sun, "Optimizing multistage discriminative dictionaries for blind image quality assessment," ***IEEE Transactions on Multimedia (TMM)***, 20(8): 2035-2048, Aug. 2018.
 *  Xuejin Wang#, **Qiuping Jiang#**, Feng Shao, Ke Gu, Guangtao Zhai, Xiaokang Yang, "Exploiting local degradation characteristics and global statistical properties for blind assessment of tone-mapped HDR images," <font color=red>IEEE Transactions on Multimedia (TMM)</font>, accepted, 2020.
 *  Sheng Yang, Guosheng Lin, **Qiuping Jiang**, Weisi Lin, "A dilated inception network for visual saliency prediction," <font color=red>IEEE Transactions on Multimedia (TMM)</font>, 22(8): 2163-2176, Aug. 2020.
 *  Wujie Zhou, Jingsheng Lei, **Qiuping Jiang**, Lu Yu, Ting Luo, "Blind binocular visual quality predictor using deep fusion network," <font color=red>IEEE Transactions on Computational Imaging (TCI)</font>, 6: 883-893, 2020.
