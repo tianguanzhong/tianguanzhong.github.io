@@ -41,7 +41,6 @@
 
 ## Education
 
-|                     |                                                              |
 | ------------------- | ------------------------------------------------------------ |
 | Mar 2011 - Feb 2018 | **M.S. and Ph.D. in Electrical and Electronic Engineering** (4.03/4.30) Supervised by Prof. Sanghoon Lee Yonsei University, Seoul, Korea |
 | Mar 2007 - Feb 2011 | **B.S. in Electrical and Electronic Engineering** (3.67/4.30) Yonsei University, Seoul, Korea |
@@ -50,7 +49,6 @@
 
 
 ## Experience
-|                     |                                                              |
 | ------------------- | ------------------------------------------------------------ |
 | Aug 2017 - Nov 2017 | **Research Intern** Supervised by Dr. Chong Luo Microsoft Research Asia, Beijing, China |
 | Jul 2015 - Sep 2017 | **Secretary** IEEE Human Factors for Visual Experiences Working Group Seoul, Korea |
