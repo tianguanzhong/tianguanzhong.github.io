@@ -46,19 +46,16 @@
 ## Publications
 
 ---
-
-* **Deep convolutional neural models for picture quality prediction** 
-
-  **Jongyoo Kim**, H. Zeng, D. Ghadiyaram, S. Lee, L. Zhang and A. C. Bovik 
-
-  IEEE Signal Processing Magazine
+*  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Yabin Zhang, Weisi Lin, "StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection," <font color=red>IEEE Transactions on Image Processing (TIP)</font>, submitted, 2020.
 
 ---
-*  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Yabin Zhang, Weisi Lin, 
-  "StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection," 
-  <font color=red>IEEE Transactions on Image Processing (TIP)</font>, submitted, 2020.
+*  **Qiuping Jiang**, Wei Zhou, Xiongli Chai, Guanghui Yue, Feng Shao, Zhibo Chen, "A full-reference stereoscopic image quality measurement via hierarchical deep feature degradation fusion," <font color=red>IEEE Transactions on Instrumentation and Measurement (TIM)</font>, accepted, 2020.
 
 ---
+*  **Qiuping Jiang**, Wei Gao, Shiqi Wang, Guanghui Yue, Feng Shao, Yo-Sung Ho, Sam Kwong, "Blind image quality measurement by exploiting high order statistics with deep dictionary encoding network," <font color=red>IEEE Transactions on Instrumentation and Measurement (TIM)</font>, accepted, 2020.
+
+---
+*  **Qiuping Jiang**, Feng Shao, Wei Gao, Zhuo Chen, Gangyi Jiang, Yo-Sung Ho, "Unified no-reference quality assessment of singly and multiply distorted stereoscopic images," <font color=red>IEEE Transactions on Image Processing (TIP)</font>, 28(4): 1866-1881, Apr. 2019.
 
 ## Tech Reports & Standardization Documents
 
