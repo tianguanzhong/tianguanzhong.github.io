@@ -7,10 +7,11 @@
       <a href="http://www.nbu.edu.cn/">Ningbo University</a><br>
       Email: jiangqiuping@nbu.edu.cn<br>
       <a href="https://scholar.google.com/citations?user=PbPTiKYAAAAJ/">[Google Scholar]</a><br>
+      <a href="https://www.researchgate.net/profile/Jiang_Qiuping4/">[ResearchGate]</a><br>
     </td>
     <td>
       <img src="picture.png" alt="Drawing" style="
-      height: 200px;
+      height: 300px;
       border: 5px solid #ccc;
       border-radius: 10px;
       -moz-border-radius: 10px;
