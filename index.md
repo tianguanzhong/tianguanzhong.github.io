@@ -43,7 +43,7 @@
 
 
 ## Publications
-
+### IEEE Transactions
 *  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Yabin Zhang, Weisi Lin,  
    "StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection,"  
    ***IEEE Transactions on Image Processing (TIP)***, submitted, 2020.
@@ -108,3 +108,5 @@
 *  Ke Gu, Xin Xu, Junfei Qiao, **Qiuping Jiang**, Weisi Lin, Daniel Thalmann,  
 ["Learning a unified blind image quality metric via on-line and off-line big training instances,"](https://ieeexplore.ieee.org/document/8627983)  
 ***IEEE Transactions on Big Data (TBD)***, accepted, Jan. 2019.
+
+### Other Journals
