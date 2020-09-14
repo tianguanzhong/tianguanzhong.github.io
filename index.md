@@ -28,27 +28,19 @@
 
 * Perceptual Image/Video Quality Assessment
 
-* Quality of Experience Assessment of 2D/3D/VR Images and Videos
-
 * Visual Attention Modeling
 
-* Deep Learning
+* Immersive Multimedia Computing
 
-  
+* Deep Learning with Applications in Computer Vision
 
-## Education
 
-| ------------------- | ------------------------------------------------------------ |
-| Mar 2011 - Feb 2018 | **M.S. and Ph.D. in Electrical and Electronic Engineering** (4.03/4.30) Supervised by Prof. Sanghoon Lee Yonsei University, Seoul, Korea |
-| Mar 2007 - Feb 2011 | **B.S. in Electrical and Electronic Engineering** (3.67/4.30) Yonsei University, Seoul, Korea |
-
-## Experience
+## Education and Experience
 
 | ------------------- | ------------------------------------------------------------ |
-| Mar 2011 - Feb 2018 | **Research Intern** Supervised by Dr. Chong Luo Microsoft Research Asia, Beijing, China |
-| Mar 2007 - Feb 2011 | **Secretary** IEEE Human Factors for Visual Experiences Working Group Seoul, Korea |
-
-  
+| Jan. 2017 - May  2018 | **Visiting Ph.D. student in Computer Science and Engineering**, Nanyang Technological University, Singapore |
+| Sep. 2015 - Jun. 2018 | **Ph.D. in Electrical and Electronic Engineering**, Ningbo University, Ningbo, China |
+| Jul. 2018 - present | **Associate Professor in Electrical and Electronic Engineering**, Ningbo University, Ningbo, China |
 
 ## Publications
 
@@ -60,16 +52,10 @@
 
   IEEE Signal Processing Magazine
 
-  [[abs](javascript: none)]
-
 ---
-*  **Deep Blind Image Quality Assessment by Employing FR-IQA**
-
-  **Jongyoo Kim** and S. Lee
-
-  IEEE Conference on Image Processing (ICIP), 2017
-
-  [[abs](javascript: none)]
+*  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Yabin Zhang, Weisi Lin, 
+  "StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection," 
+  <font color=red>IEEE Transactions on Image Processing (TIP)</font>, submitted, 2020.
 
 ---
 
