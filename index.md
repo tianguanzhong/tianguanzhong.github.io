@@ -1,5 +1,4 @@
 # Qiuping Jiang's Homepage!
-
 ## Personal Information
 <table class="cv">
   <tbody><tr>
@@ -31,11 +30,9 @@
 
 * Quality of Experience Assessment of 2D/3D/VR Images and Videos
 
-* Video Object Segmentation
+* Visual Attention Modeling
 
 * Deep Learning
-
-* 3D Reconstruction
 
   
 
@@ -44,8 +41,6 @@
 | ------------------- | ------------------------------------------------------------ |
 | Mar 2011 - Feb 2018 | **M.S. and Ph.D. in Electrical and Electronic Engineering** (4.03/4.30) Supervised by Prof. Sanghoon Lee Yonsei University, Seoul, Korea |
 | Mar 2007 - Feb 2011 | **B.S. in Electrical and Electronic Engineering** (3.67/4.30) Yonsei University, Seoul, Korea |
-
-
 
 
 ## Experience
