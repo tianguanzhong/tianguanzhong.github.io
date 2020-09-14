@@ -56,7 +56,11 @@
    
    ***IEEE Transactions on Instrumentation and Measurement (TIM)***, accepted, 2020.
 
-*  **Qiuping Jiang**, Wei Gao, Shiqi Wang, Guanghui Yue, Feng Shao, Yo-Sung Ho, Sam Kwong, ["Blind image quality measurement by exploiting high order statistics with deep dictionary encoding network,"](https://ieeexplore.ieee.org/document/9055066/) ***IEEE Transactions on Instrumentation and Measurement (TIM)***, accepted, 2020.
+*  **Qiuping Jiang**, Wei Gao, Shiqi Wang, Guanghui Yue, Feng Shao, Yo-Sung Ho, Sam Kwong, 
+
+   ["Blind image quality measurement by exploiting high order statistics with deep dictionary encoding network,"](https://ieeexplore.ieee.org/document/9055066/) 
+   
+   ***IEEE Transactions on Instrumentation and Measurement (TIM)***, accepted, 2020.
 
 *  **Qiuping Jiang**, Feng Shao, Wei Gao, Zhuo Chen, Gangyi Jiang, Yo-Sung Ho, ["Unified no-reference quality assessment of singly and multiply distorted stereoscopic images,"](https://ieeexplore.ieee.org/document/8540445) ***IEEE Transactions on Image Processing (TIP)***, 28(4): 1866-1881, Apr. 2019.
 
