@@ -11,7 +11,7 @@
     </td>
     <td>
       <img src="picture.png" alt="Drawing" style="
-      height: 300px;
+      height: 320px;
       border: 5px solid #ccc;
       border-radius: 10px;
       -moz-border-radius: 10px;
