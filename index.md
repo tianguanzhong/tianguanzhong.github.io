@@ -8,6 +8,11 @@
       Email: jiangqiuping@nbu.edu.cn<br>
       <a href="https://scholar.google.com/citations?user=PbPTiKYAAAAJ/">[Google Scholar]</a><br>
       <a href="https://www.researchgate.net/profile/Jiang_Qiuping4/">[ResearchGate]</a><br>
+      ## Research Interest<br>
+      * Perceptual Image/Video Quality Assessment<br>
+      * Visual Attention Modeling<br>
+      * Immersive Multimedia Computing<br>
+      * Deep Learning with Applications in Computer Vision<br>
     </td>
     <td>
       <img src="picture.png" alt="Drawing" style="
@@ -24,16 +29,6 @@
 
 ## Short Biography
 I am currently an Associate Professor at Ningbo University, Ningbo, China. I obtained my Ph.D. degree from School of Information Science and Engineering, Ningbo University in 2018. From Jan. 2017 to May 2018, I worked with [Prof. Lin Weisi](https://www.ntu.edu.sg/home/wslin/Index.htm) as a joint Ph.D. student at Multimedia Lab in Nanyang Technological University, Singapore.
-
-## Research Interest
-
-* Perceptual Image/Video Quality Assessment
-
-* Visual Attention Modeling
-
-* Immersive Multimedia Computing
-
-* Deep Learning with Applications in Computer Vision
 
 ## Student Recruitment
 I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good mathematics, algorithm or programming background. 2) Must be self-motivated. 3) Work or study in the area of visual perception, image/video signal processing, or multimedia system. If you are interested, please contact via email.
