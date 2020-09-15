@@ -36,9 +36,9 @@
 ## Education and Experience
 
 | ------------------- | ------------------------------------------------------------ |
-| Jul. 2018 - present | **Associate Professor in Electrical and Electronic Engineering**, Ningbo University, Ningbo, China |
-| Jan. 2017 - May  2018 | **Visiting Ph.D. student in Computer Science and Engineering**, Nanyang Technological University, Singapore |
-| Sep. 2015 - Jun. 2018 | **Ph.D. in Electrical and Electronic Engineering**, Ningbo University, Ningbo, China |
+| Jul. 2018 - present | **Associate Professor in Electrical and Electronic Engineering**,  Ningbo University, Ningbo, China |
+| Jan. 2017 - May  2018 | **Visiting Ph.D. student in Computer Science and Engineering**,  Nanyang Technological University, Singapore |
+| Sep. 2015 - Jun. 2018 | **Ph.D. in Electrical and Electronic Engineering**,  Ningbo University, Ningbo, China |
 
 ## Student Recruitment
 I am currently recruiting Ph.D. and Master students. Requirements: 1) B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good mathematics, algorithm or programming background. 2) Must be self-motivated. 3) Work or study in the area of visual perception, image/video signal processing, or multimedia system. If you are interested, please contact via email.
