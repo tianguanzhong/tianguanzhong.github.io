@@ -19,8 +19,8 @@
       -webkit-border-radius: 10px;
       ">
     </td>
-  </tr>
-</tbody></table>
+  </tr></tbody>
+</table>
 
 ## Research Interest
 
@@ -36,12 +36,15 @@
 ## Education and Experience
 
 | ------------------- | ------------------------------------------------------------ |
-| Jul. 2018 - present | **Associate Professor in Electrical and Electronic Engineering**, Ningbo University, Ningbo, China |
-| Jan. 2017 - May  2018 | **Visiting Ph.D. student in Computer Science and Engineering**, Nanyang Technological University, Singapore |
-| Sep. 2015 - Jun. 2018 | **Ph.D. in Electrical and Electronic Engineering**, Ningbo University, Ningbo, China |
+| Jul. 2018 - present | **Associate Professor in Electrical and Electronic Engineering** <br>
+Ningbo University, Ningbo, China |
+| Jan. 2017 - May  2018 | **Visiting Ph.D. student in Computer Science and Engineering** <br>
+Nanyang Technological University, Singapore |
+| Sep. 2015 - Jun. 2018 | **Ph.D. in Electrical and Electronic Engineering** <br>
+Ningbo University, Ningbo, China |
 
 ## Student Recruitment
-I am currently recruiting Ph.D. and Master students. Requirements: 1) B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good mathematics, algorithm or programming background. 2) Must be self-motivated. 3) Work or study in the area of visual perception, image/video signal processing, or multimedia system. If you are interested, please contact via email.
+I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good mathematics, algorithm or programming background. 2) Must be self-motivated. 3) Work or study in the area of visual perception, image/video signal processing, or multimedia system. If you are interested, please contact via email.
 
 ## Publications
 ### IEEE Transactions
@@ -105,7 +108,7 @@ I am currently recruiting Ph.D. and Master students. Requirements: 1) B.Sc. degr
 ["QoE-guided warping for stereoscopic image retargeting,"](https://ieeexplore.ieee.org/document/7962290)  
 ***IEEE Transactions on Image Processing (TIP)***, 26(10): 4790-4805, Oct. 2017.
 
-*  Xuejin Wang, Feng Shao, Qiuping Jiang, Mengxiang Chao, Yo-Sung Ho,  
+*  Xuejin Wang, Feng Shao, **Qiuping Jiang**, Mengxiang Chao, Yo-Sung Ho,  
 ["Measuring coarse-to-fine texture and geometric distortions for quality assessment of DIBR-synthesized images,"](https://ieeexplore.ieee.org/document/9091246)  
 ***IEEE Transactions on Multimedia (TMM)***, accepted, 2020.
 
