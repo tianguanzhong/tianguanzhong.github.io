@@ -6,8 +6,7 @@
       <a href="http://eecs.nbu.edu.cn/">School of Information Science and Engineering</a><br>
       <a href="http://www.nbu.edu.cn/">Ningbo University</a><br>
       Email: jiangqiuping@nbu.edu.cn<br>
-      <a href="https://scholar.google.com/citations?user=PbPTiKYAAAAJ/">[Google Scholar]</a><br>
-      <a href="https://www.researchgate.net/profile/Jiang_Qiuping4/">[ResearchGate]</a><br>
+      <a href="https://scholar.google.com/citations?user=PbPTiKYAAAAJ/">[Google Scholar]</a><a href="https://www.researchgate.net/profile/Jiang_Qiuping4/">[ResearchGate]</a><br>
       <span class="blue_2"><font size="3"><strong>Research Interests</strong></font></span><br>
       * Perceptual Image/Video Quality Assessment<br>
       * Visual Attention Modeling<br>
