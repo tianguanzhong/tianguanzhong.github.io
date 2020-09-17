@@ -1,7 +1,3 @@
-``` 
-Welcome to Qiuping Jiang's Homepage!
-```
-
 <table class="cv">
   <tbody><tr>
     <td>
