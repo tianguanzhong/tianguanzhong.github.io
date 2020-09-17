@@ -119,5 +119,3 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 *  Ke Gu, Xin Xu, Junfei Qiao, **Qiuping Jiang**, Weisi Lin, Daniel Thalmann,  
 ["Learning a unified blind image quality metric via on-line and off-line big training instances,"](https://ieeexplore.ieee.org/document/8627983)  
 ***IEEE Transactions on Big Data (TBD)***, accepted, Jan. 2019.
-
-### Other Journals
