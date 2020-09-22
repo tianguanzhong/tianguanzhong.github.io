@@ -15,12 +15,12 @@
     </td>
     <td>
       <img src="picture.png" alt="Drawing" style="
-      height: 300px;
+      height: 250px;
       border: 5px solid #ccc;
-      border-radius: 10px;
-      -moz-border-radius: 10px;
-      -khtml-border-radius: 10px;
-      -webkit-border-radius: 10px;
+      border-radius: 5px;
+      -moz-border-radius: 5px;
+      -khtml-border-radius: 5px;
+      -webkit-border-radius: 5px;
       ">
     </td>
   </tr></tbody>
