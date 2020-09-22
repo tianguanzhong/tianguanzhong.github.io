@@ -32,28 +32,6 @@ I am currently an Associate Professor at Ningbo University, Ningbo, China. I obt
 ## Student Recruitment
 I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good mathematics, algorithm or programming background. 2) Must be self-motivated. 3) Work or study in the area of visual perception, image/video signal processing, or multimedia system. If you are interested, please contact via email.
 
-##  Horners and Awards
-*  宁波大学“浙东青年学者”培养对象，2020
-
-*  宁波市“泛3315计划”创新个人，2019
-
-*  浙江省优秀博士学位论文提名，2019
-
-*  2017-2018年度宁波市自然科学优秀论文二等奖，2019
-
-*  宁波大学曹光彪科研成果一等奖，2018
-
-*  Elsevier-JVCI期刊最佳论文荣誉提名奖，2017
-
-## Activities and Services
-*  Membership: IEEE/CCF/CSIG
-
-*  Special Session Chair: Asia-Pacific Signal and Information Processing Association (APSIPA) ASC 2019
-
-*  TPC Member: IEEE VCIP 2017-2020、IEEE ICIP 2018-2019、IEEE ICME 2020、APSIPA ASC 2020，NCIG 2020
-
-*  Reviewer: IEEE TIP/TNNLS/TCYB/TMM/TCSVT/TSIPN/IOTJ
-
 ## Publications
 ### IEEE Transactions
 *  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Yabin Zhang, Weisi Lin, "StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection," ***IEEE Transactions on Image Processing (TIP)***, submitted, 2020.
@@ -140,3 +118,12 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 *  **Qiuping Jiang**, Feng Shao, Gangyi Jiang, Mei Yu, Zongju Peng, ["Supervised dictionary learning for blind image quality assessment,"](https://ieeexplore.ieee.org/document/7457897/) ***IEEE International Conference on Visual Communications and Image Processing (VCIP)***, Singapore, Dec. 2015.
 
+
+## Activities and Services
+*  Membership: IEEE/CCF/CSIG
+
+*  Special Session Chair: Asia-Pacific Signal and Information Processing Association (APSIPA) ASC 2019
+
+*  TPC Member: IEEE VCIP 2017-2020、IEEE ICIP 2018-2019、IEEE ICME 2020、APSIPA ASC 2020，NCIG 2020
+
+*  Reviewer: IEEE TIP/TNNLS/TCYB/TMM/TCSVT/TSIPN/IOTJ
