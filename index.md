@@ -122,7 +122,7 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 ## Activities and Services
 *  **Membership**: IEEE/CCF/CSIG, CSIG Big Visual Data TC, CSIG Multimedia TC 
 
-*  **Special Session Chair**: Asia-Pacific Signal and Information Processing Association (APSIPA) ASC 2019
+*  **Special Session Organizer**: Asia-Pacific Signal and Information Processing Association (APSIPA) ASC 2019
 
 *  **TPC Member**: IEEE VCIP 2017-2020、IEEE ICIP 2018-2019、IEEE ICME 2020、APSIPA ASC 2020，NCIG 2020
 
