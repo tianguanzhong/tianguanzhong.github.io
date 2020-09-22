@@ -163,7 +163,7 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 ["Optimizing visual comfort for stereoscopic 3D display based on color-plus-depth signals,"](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-24-11-11640)  
 ***Optics Express (OE)***, 24(11): 11640-11653, May 2016.
 
-*  Wei Zhou, **Qiuping Jiang**, Yuwang Wang, Zhibo Chen, Weiping Li, 
+*  Wei Zhou, **Qiuping Jiang**, Yuwang Wang, Zhibo Chen, Weiping Li,  
 ["Blind quality assessment for image superresolution using deep two-stream convolutional networks,"](https://www.sciencedirect.com/science/article/pii/S0020025520303352)  
 ***Information Sciences (INS)***, accepted, 2020.
 
