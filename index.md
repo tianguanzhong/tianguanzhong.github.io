@@ -131,3 +131,12 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 *  Elsevier-JVCI期刊最佳论文荣誉提名奖，2017
 
+## Activities and Services
+*  美国电子电气工程师协会（IEEE）、中国计算机学会（CCF）、中国图象图形学会（CSIG）会员；CSIG视觉大数据专委会、多媒体专委会委员
+
+*  2019亚太信号与信息处理联合协会年度峰会（APSIPA ASC 2019）专题联合主席
+
+*  IEEE VCIP2017-2020、IEEE ICIP2018-2019、IEEE ICMEW2020、APSIPA2020，NCIG2020等国内/国际会议程序委员会成员
+
+*  IEEE TIP/TNNLS/TCYB/TMM/TCSVT/TSIPN/IOTJ等国际顶级期刊审稿人
+
