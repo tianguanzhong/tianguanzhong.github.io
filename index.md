@@ -77,7 +77,7 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 ### Other Journals
 *  **Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang, ["Learning a referenceless stereopair quality engine with deep non-negativity constrained sparse auto-encoder,"](https://www.sciencedirect.com/science/article/abs/pii/S0031320317304582) ***Pattern Recognition (PR)***, 76: 242-255, Apr. 2018.
 
-*  **Qiuping Jiang**, Feng Shao, Gangyi Jiang, Mei Yu, Zongju Peng, ["Visual comfort assessment for stereoscopic images based on sparse coding with multi-scale dictionaries,"](https://www.sciencedirect.com/science/article/abs/pii/S0925231217306616) ***Neurocomputing (NEUCOM)***, 252: 77-86, Aug. 2017.
+*  **Qiuping Jiang**, Feng Shao, Gangyi Jiang, Mei Yu, Zongju Peng, ["Visual comfort assessment for stereoscopic images based on sparse coding with multi-scale dictionaries,"](https://www.sciencedirect.com/science/article/abs/pii/S0925231217306616) ***Neurocomputing (NC)***, 252: 77-86, Aug. 2017.
 
 *  **Qiuping Jiang**, Feng Shao, Wei Gao, Hong Li, Yo-Sung Ho, ["A risk-aware pairwise rank learning approach for visual discomfort prediction of stereoscopic 3D,"](https://ieeexplore.ieee.org/document/8832170) ***IEEE Signal Processing Letters (SPL)***, 26(11): 1588-1592, Nov. 2019.
 
@@ -124,6 +124,6 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 *  **Special Session Organizer**: Asia-Pacific Signal and Information Processing Association (APSIPA) ASC 2019
 
-*  **TPC Member**: IEEE VCIP 2017-2020、IEEE ICIP 2018-2019、IEEE ICME 2020、APSIPA ASC 2020，NCIG 2020
+*  **Technical Program Committee Member**: IEEE VCIP 2017-2020、IEEE ICIP 2018-2019、IEEE ICME 2020、APSIPA ASC 2020，NCIG 2020
 
-*  **Reviewer**: IEEE TIP/TNNLS/TCYB/TMM/TCSVT/TSIPN/IOTJ/MM/SPL; Elsevier SPIC/JVCI/NEUCOM/SP
+*  **Reviewer**: IEEE TIP/TNNLS/TCYB/TMM/TCSVT/TSIPN/IOTJ/MM/SPL; Elsevier SPIC/JVCI/NC/SP
