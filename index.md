@@ -20,8 +20,7 @@
       border-radius: 5px;
       -moz-border-radius: 5px;
       -khtml-border-radius: 5px;
-      -webkit-border-radius: 5px;
-      ">
+      -webkit-border-radius: 5px;">
     </td>
   </tr></tbody>
 </table>
