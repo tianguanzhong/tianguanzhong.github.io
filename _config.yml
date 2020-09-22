@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+
+# Site
+title: Qiuping Jiang
+subtitle: "Qiuping"
+description: "A journey of a thousand miles begins with a single step."
+author: Qiuping
+language:
+timezone: Asia/Shanghai
