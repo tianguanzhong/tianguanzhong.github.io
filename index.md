@@ -118,48 +118,63 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 *  **Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang,  
 ["Learning a referenceless stereopair quality engine with deep non-negativity constrained sparse auto-encoder,"](https://www.sciencedirect.com/science/article/abs/pii/S0031320317304582)  
 ***Pattern Recognition (PR)***, 76: 242-255, Apr. 2018.
+
 *  **Qiuping Jiang**, Feng Shao, Gangyi Jiang, Mei Yu, Zongju Peng,  
 ["Visual comfort assessment for stereoscopic images based on sparse coding with multi-scale dictionaries,"](https://www.sciencedirect.com/science/article/abs/pii/S0925231217306616)  
 ***Neurocomputing (NEUCOM)***, 252: 77-86, Aug. 2017.
+
 *  **Qiuping Jiang**, Feng Shao, Wei Gao, Hong Li, Yo-Sung Ho,  
 ["A risk-aware pairwise rank learning approach for visual discomfort prediction of stereoscopic 3D,"](https://ieeexplore.ieee.org/document/8832170)  
 ***IEEE Signal Processing Letters (SPL)***, 26(11): 1588-1592, Nov. 2019.
+
 *  **Qiuping Jiang**, Zhenyu Peng, Sheng Yang, Feng Shao,  
 ["Authentically distorted image quality assessment by learning from empirical score distributions,"](https://ieeexplore.ieee.org/document/8890868/)  
 ***IEEE Signal Processing Letters (SPL)***, 26(12): 1867-1871, Dec. 2019.
+
 *  **Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang,  
 ["On predicting visual comfort of stereoscopic images: A learning to rank based approach,"](https://ieeexplore.ieee.org/document/7378462/)  
 ***IEEE Signal Processing Letters (SPL)***, 23(2): 302-306, Feb. 2016.
+
 *  **Qiuping Jiang**, Feng Shao, Gangyi Jiang, Mei Yu, Zongju Peng,  
 ["Supervised dictionary learning for blind image quality assessment using quality-constraint sparse coding,"](https://www.sciencedirect.com/science/article/abs/pii/S1047320315001789)  
 ***Journal of Visual Communication and Image Representation (JVCI)***, 33: 123-133, Nov. 2015.
+
 *  **Qiuping Jiang**, Feng Shao, Gangyi Jiang, Mei Yu, Zongju Peng, Changhong Yu,  
 ["A depth perception and visual comfort guided computational model for stereoscopic 3D visual saliency,"](https://www.sciencedirect.com/science/article/abs/pii/S0923596515000685)  
 ***Signal Processing: Image Communication (SPIC)***, 38: 57-69, Oct. 2015.
+
 *  **Qiuping Jiang**, Feng Shao, Gangyi Jiang, Mei Yu, Zongju Peng,  
 ["Leveraging visual attention and neural activity for stereoscopic 3D visual comfort assessment,"](https://link.springer.com/article/10.1007/s11042-016-3548-2)  
 ***Multimedia Tools and Applications (MTAP)***, 76(7): 9405-9425, Apr. 2017.
+
 *  **Qiuping Jiang**, Feng Shao, Gangyi Jiang, Mei Yu, Zongju Peng,  
 ["Three-dimensional visual comfort assessment via preference learning,"](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-24/issue-4/043002/Three-dimensional-visual-comfort-assessment-via-preference-learning/10.1117/1.JEI.24.4.043002.short?SSO=1)  
 ***Journal of Electronic Imaging (JEI)***, 24(4): 043002, Jul. 2015.
+
 *  Guanghui Yue, Chunping Hou, **Qiuping Jiang***, Yang Yang,  
 ["Blind stereoscopic 3D image quality assessment via analysis of naturalness, structure, and binocular asymmetry,"](https://www.sciencedirect.com/science/article/abs/pii/S0165168418301452)  
 ***Signal Processing (SP)***, 150: 204-214, Sep. 2018.
+
 *  Yongqiang Bai, Mei Yu*, **Qiuping Jiang***, Gangyi Jiang, Zhongjie Zhu,  
 ["Learning content-specific codebooks for blind quality assessment of screen content images,"](https://www.sciencedirect.com/science/article/abs/pii/S0165168419301008)  
 ***Signal Processing (SP)***, 161: 248-258, Aug. 2019.
+
 *  Feng Shao, **Qiuping Jiang**, Randi Fu, Mei Yu, Gangyi Jiang,  
 ["Optimizing visual comfort for stereoscopic 3D display based on color-plus-depth signals,"](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-24-11-11640)  
 ***Optics Express (OE)***, 24(11): 11640-11653, May 2016.
+
 *  Wei Zhou, **Qiuping Jiang**, Yuwang Wang, Zhibo Chen, Weiping Li, 
 ["Blind quality assessment for image superresolution using deep two-stream convolutional networks,"](https://www.sciencedirect.com/science/article/pii/S0020025520303352)  
 ***Information Sciences (INS)***, accepted, 2020.
+
 *  Fucui Li, Feng Shao, **Qiuping Jiang**, Randi Fu, Gangyi Jiang, Mei Yu,  
 ["Local and global sparse representation for no-reference quality assessment of stereoscopic images,"](https://www.sciencedirect.com/science/article/pii/S0020025516312749)  
 ***Information Sciences (INS)***, 422: 110-121, Jan. 2018.
+
 *  Feng Shao, Libo Shen, **Qiuping Jiang**, Randi Fu, Gangyi Jiang,  
 ["StereoEditor: Controllable stereoscopic display by content retargeting,"](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-25-26-33202)  
 ***Optics Express (OE)***, 25(26): 33202-33215, Dec. 2017.
-31.	Wujie Zhou, Sijia Lv, **Qiuping Jiang**, Lu Yu,  
+
+*  Wujie Zhou, Sijia Lv, **Qiuping Jiang**, Lu Yu,  
 ["Deep road scene understanding,"](https://ieeexplore.ieee.org/document/8630577)  
 IEEE Signal Processing Letters (SPL), 26(4): 587-591, Apr. 2019.
