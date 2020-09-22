@@ -177,4 +177,4 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 *  Wujie Zhou, Sijia Lv, **Qiuping Jiang**, Lu Yu,  
 ["Deep road scene understanding,"](https://ieeexplore.ieee.org/document/8630577)  
-IEEE Signal Processing Letters (SPL), 26(4): 587-591, Apr. 2019.
+***IEEE Signal Processing Letters (SPL)***, 26(4): 587-591, Apr. 2019.
