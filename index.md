@@ -155,7 +155,7 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 ["Blind stereoscopic 3D image quality assessment via analysis of naturalness, structure, and binocular asymmetry,"](https://www.sciencedirect.com/science/article/abs/pii/S0165168418301452)  
 ***Signal Processing (SP)***, 150: 204-214, Sep. 2018.
 
-*  Yongqiang Bai, Mei Yu*, **Qiuping Jiang**, Gangyi Jiang, Zhongjie Zhu,  
+*  Yongqiang Bai, Mei Yu, **Qiuping Jiang**, Gangyi Jiang, Zhongjie Zhu,  
 ["Learning content-specific codebooks for blind quality assessment of screen content images,"](https://www.sciencedirect.com/science/article/abs/pii/S0165168419301008)  
 ***Signal Processing (SP)***, 161: 248-258, Aug. 2019.
 
