@@ -151,11 +151,11 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 ["Three-dimensional visual comfort assessment via preference learning,"](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-24/issue-4/043002/Three-dimensional-visual-comfort-assessment-via-preference-learning/10.1117/1.JEI.24.4.043002.short?SSO=1)  
 ***Journal of Electronic Imaging (JEI)***, 24(4): 043002, Jul. 2015.
 
-*  Guanghui Yue, Chunping Hou, **Qiuping Jiang***, Yang Yang,  
+*  Guanghui Yue, Chunping Hou, **Qiuping Jiang**, Yang Yang,  
 ["Blind stereoscopic 3D image quality assessment via analysis of naturalness, structure, and binocular asymmetry,"](https://www.sciencedirect.com/science/article/abs/pii/S0165168418301452)  
 ***Signal Processing (SP)***, 150: 204-214, Sep. 2018.
 
-*  Yongqiang Bai, Mei Yu*, **Qiuping Jiang***, Gangyi Jiang, Zhongjie Zhu,  
+*  Yongqiang Bai, Mei Yu*, **Qiuping Jiang**, Gangyi Jiang, Zhongjie Zhu,  
 ["Learning content-specific codebooks for blind quality assessment of screen content images,"](https://www.sciencedirect.com/science/article/abs/pii/S0165168419301008)  
 ***Signal Processing (SP)***, 161: 248-258, Aug. 2019.
 
