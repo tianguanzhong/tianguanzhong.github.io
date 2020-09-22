@@ -108,7 +108,7 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 *  Wujie Zhou, Sijia Lv, **Qiuping Jiang**, Lu Yu, ["Deep road scene understanding,"](https://ieeexplore.ieee.org/document/8630577) ***IEEE Signal Processing Letters (SPL)***, 26(4): 587-591, Apr. 2019.
 
 ### International Conferences
-*  Guibiao Liao, Wei Gao, **Qiuping Jiang**, Ronggang Wang, Ge Li, ["MMNet: Multi-Stage and Multi-Scale Fusion Network for RGB-D Salient Object Detection,"] ***ACM International Conference on Multimedia (ACM-MM)***, Seattle, WA, USA, Oct. 2020.
+*  Guibiao Liao, Wei Gao, **Qiuping Jiang**, Ronggang Wang, Ge Li, "MMNet: Multi-Stage and Multi-Scale Fusion Network for RGB-D Salient Object Detection," ***ACM International Conference on Multimedia (ACM-MM)***, Seattle, WA, USA, Oct. 2020.
 
 *  Sheng Yang, **Qiuping Jiang**, Weisi Lin, Yongtao Wang, ["SGDNet: An end-to-end saliency-guided deep neural network for no-reference image quality assessment,"](https://dl.acm.org/doi/10.1145/3343031.3350990) ***ACM International Conference on Multimedia (ACM-MM)***, Nice, France, Oct. 2019.
 
