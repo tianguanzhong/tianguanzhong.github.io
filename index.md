@@ -118,3 +118,16 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 *  **Qiuping Jiang**, Feng Shao, Gangyi Jiang, Mei Yu, Zongju Peng, ["Supervised dictionary learning for blind image quality assessment,"](https://ieeexplore.ieee.org/document/7457897/) ***IEEE International Conference on Visual Communications and Image Processing (VCIP)***, Singapore, Dec. 2015.
 
+##  Horners and Awards
+*  宁波大学“浙东青年学者”培养对象，2020
+
+*  宁波市“泛3315计划”创新个人，2019
+
+*  浙江省优秀博士学位论文提名，2019
+
+*  2017-2018年度宁波市自然科学优秀论文二等奖，2019
+
+*  宁波大学曹光彪科研成果一等奖，2018
+
+*  Elsevier-JVCI期刊最佳论文荣誉提名奖，2017
+
