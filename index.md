@@ -31,6 +31,9 @@ I am currently an Associate Professor at Ningbo University, Ningbo, China. I obt
 ## Student Recruitment
 I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good mathematics, algorithm or programming background. 2) Must be self-motivated. 3) Work or study in the area of visual perception, image/video signal processing, or multimedia system. If you are interested, please contact via email.
 
+## Recent News
+*  2020/10/22, One paper was accepted for publication in IEEE Transactions on Image Processing (CCF-A, IF=9.34).
+
 ## Publications
 ### IEEE Transactions
 *  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Yabin Zhang, Weisi Lin, "StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection," ***IEEE Transactions on Image Processing (TIP)***, submitted, 2020.
