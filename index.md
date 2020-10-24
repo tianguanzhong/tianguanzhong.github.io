@@ -129,40 +129,38 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 *  **Technical Program Committee Member**: IJCAI2021、IEEE VCIP 2017-2020、IEEE ICIP 2018-2019、IEEE ICME 2020、APSIPA ASC 2020、NCIG 2020
 
 *  **Reviewer**: 
-IEEE Transactions on Neural Networks and Learning Systems
+* IEEE Transactions on Neural Networks and Learning Systems
 
-IEEE Transactions on Industrial Electronics
+* IEEE Transactions on Industrial Electronics
 
-IEEE Transactions on Cybernetics
+* IEEE Transactions on Cybernetics
 
-IEEE Transactions on Image Processing
+* IEEE Transactions on Image Processing
 
-IEEE Transactions on Circuits Systems for Video Technology
+* IEEE Transactions on Circuits Systems for Video Technology
 
-IEEE Transactions on Multimeida
+* IEEE Transactions on Multimeida
 
-IEEE Transactions on Signal and Information Processing over Networks
+* IEEE Transactions on Signal and Information Processing over Networks
 
-IEEE Internet of Things Journal
+* IEEE Internet of Things Journal
 
-IEEE Multimeida Magazine
+* IEEE Multimeida Magazine
 
-IEEE Signal Processing Letters
+* IEEE Signal Processing Letters
 
-IEEE Access
+* Elsevier Neurocomputing
 
-Elsevier Neurocomputing
+* Elsevier Signal Processing
 
-Elsevier Signal Processing
+* Elsevier Signal Processing: Image Communication
 
-Elsevier Signal Processing: Image Communication
+* Elsevier Journal of Visual Communication and Image Representation
 
-Elsevier Journal of Visual Communication and Image Representation
+* Mathematical Biosciences and Engineering
 
-Hindawi Mathematical Biosciences and Engineering
+* Mathematical Problems in Engineering
 
-Hindawi Mathematical Problems in Engineering
+* Computational Intelligence and Neuroscience
 
-Hindawi Computational Intelligence and Neuroscience
-
-Scientific Reports
+* Scientific Reports
