@@ -126,6 +126,25 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 *  **Special Session Organizer**: Asia-Pacific Signal and Information Processing Association (APSIPA) ASC 2019
 
-*  **Technical Program Committee Member**: IEEE VCIP 2017-2020、IEEE ICIP 2018-2019、IEEE ICME 2020、APSIPA ASC 2020、NCIG 2020
+*  **Technical Program Committee Member**: IJCAI2021、IEEE VCIP 2017-2020、IEEE ICIP 2018-2019、IEEE ICME 2020、APSIPA ASC 2020、NCIG 2020
 
-*  **Reviewer**: IEEE TIP/TNNLS/TCYB/TMM/TCSVT/TSIPN/IOTJ/MM/SPL; Elsevier SPIC/JVCI/NC/SP
+*  **Reviewer**: 
+IEEE Transactions on Neural Networks and Learning Systems
+IEEE Transactions on Industrial Electronics
+IEEE Transactions on Cybernetics
+IEEE Transactions on Image Processing
+IEEE Transactions on Circuits Systems for Video Technology
+IEEE Transactions on Multimeida
+IEEE Transactions on Signal and Information Processing over Networks
+IEEE Internet of Things Journal
+IEEE Multimeida Magazine
+IEEE Signal Processing Letters
+IEEE Access
+Elsevier Neurocomputing
+Elsevier Signal Processing
+Elsevier Signal Processing: Image Communication
+Elsevier Journal of Visual Communication and Image Representation
+Hindawi Mathematical Biosciences and Engineering
+Hindawi Mathematical Problems in Engineering
+Hindawi Computational Intelligence and Neuroscience
+Scientific Reports
