@@ -39,7 +39,7 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 ### IEEE Transactions
 *  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Yabin Zhang, Weisi Lin, "StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection," ***IEEE Transactions on Image Processing (TIP)***, submitted, 2020.
 
-*  <font color=#FF0000>[New]</font>  **Qiuping Jiang**, Zhenyu Peng, Guanghui Yue, Hong Li, Feng Shao, "No-reference image contrast evaluation by generating bi-directional pseudo references," ***IEEE Transactions on Industrial Informatics (TII)***, accepted, 2020.
+*  **Qiuping Jiang**, Zhenyu Peng, Guanghui Yue, Hong Li, Feng Shao, "No-reference image contrast evaluation by generating bi-directional pseudo references," ***IEEE Transactions on Industrial Informatics (TII)***, accepted, 2020.
 
 *  **Qiuping Jiang**, Wei Zhou, Xiongli Chai, Guanghui Yue, Feng Shao, Zhibo Chen, ["A full-reference stereoscopic image quality measurement via hierarchical deep feature degradation fusion,"](https://ieeexplore.ieee.org/document/9127513) ***IEEE Transactions on Instrumentation and Measurement (TIM)***, accepted, 2020.
 
@@ -69,7 +69,7 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 *  Feng Shao, Wenchong Lin, Weisi Lin, **Qiuping Jiang**, Gangyi Jiang, ["QoE-guided warping for stereoscopic image retargeting,"](https://ieeexplore.ieee.org/document/7962290) ***IEEE Transactions on Image Processing (TIP)***, 26(10): 4790-4805, Oct. 2017.
 
-*  <font color=#FF0000>[New]</font>  Chao Huang, Zongju Peng, Yong Xu, Feng Chen, **Qiuping Jiang**, Yun Zhang, Gangyi Jiang, Yo-Sung Ho, "Online learning-based multi-stage complexity control for live video coding," ***IEEE Transactions on Image Processing (TIP)***, accepted, 2020.
+*  Chao Huang, Zongju Peng, Yong Xu, Feng Chen, **Qiuping Jiang**, Yun Zhang, Gangyi Jiang, Yo-Sung Ho, "Online learning-based multi-stage complexity control for live video coding," ***IEEE Transactions on Image Processing (TIP)***, accepted, 2020.
 
 *  Xuejin Wang, Feng Shao, **Qiuping Jiang**, Mengxiang Chao, Yo-Sung Ho, ["Measuring coarse-to-fine texture and geometric distortions for quality assessment of DIBR-synthesized images,"](https://ieeexplore.ieee.org/document/9091246) ***IEEE Transactions on Multimedia (TMM)***, accepted, 2020.
 
