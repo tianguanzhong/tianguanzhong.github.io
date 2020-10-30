@@ -128,7 +128,7 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 ## Activities and Services
 *  **Membership**: 
-    - IEEE（美国电气电子工程师协会）/CCF（中国计算机学会）/CSIG（中国图象图形学会）
+    - IEEE（美国电气电子工程师协会）、CCF（中国计算机学会）、CSIG（中国图象图形学会）
     
     - CSIG Big Visual Data Technical Committee Member （CSIG视觉大数据专委会委员）
     
