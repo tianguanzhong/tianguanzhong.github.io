@@ -25,18 +25,18 @@
   </tr></tbody>
 </table>
 
-## Short Biography
+### Short Biography
 <small>I am currently an Associate Professor at Ningbo University, Ningbo, China. I obtained my Ph.D. degree from School of Information Science and Engineering, Ningbo University in 2018. From Jan. 2017 to May 2018, I worked with [Prof. Lin Weisi](https://www.ntu.edu.sg/home/wslin/Index.htm) as a joint Ph.D. student at Multimedia Lab in Nanyang Technological University, Singapore.</small>
 
-## Student Recruitment
+### Student Recruitment
 <small>I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good mathematics, algorithm or programming background. 2) Must be self-motivated. 3) Work or study in the area of visual perception, image/video signal processing, or multimedia system. If you are interested, please contact via email.</small>
 
-## Recent News
+### Recent News
 *  <small>2020/10/22, One co-authored paper was accepted for publication in ***IEEE Transactions on Image Processing (CCF-A, IF=9.340)***, Congratulations to Chao Huang.</small>
 *  <small>2020/10/27, One paper (first author) was accepted for publication in ***IEEE Transactions on Industrial Informatics (IF=9.112)***.</small>
 
-## Publications
-### IEEE Transactions
+### Publications
+#### IEEE Transactions
 *  <small>**Qiuping Jiang**, Zhenyu Peng, Feng Shao, Yabin Zhang, Weisi Lin, "StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection," ***IEEE Transactions on Image Processing (TIP)***, submitted, 2020.</small>
 *  <small>**Qiuping Jiang**, Zhenyu Peng, Guanghui Yue, Hong Li, Feng Shao, "No-reference image contrast evaluation by generating bi-directional pseudo references," ***IEEE Transactions on Industrial Informatics (TII)***, accepted, 2020.</small>
 *  <small>**Qiuping Jiang**, Wei Zhou, Xiongli Chai, Guanghui Yue, Feng Shao, Zhibo Chen, ["A full-reference stereoscopic image quality measurement via hierarchical deep feature degradation fusion,"](https://ieeexplore.ieee.org/document/9127513) ***IEEE Transactions on Instrumentation and Measurement (TIM)***, accepted, 2020.</small>
@@ -60,7 +60,7 @@
 *  <small>Feng Shao, Zhenqi Fu, **Qiuping Jiang**, Gangyi Jiang, Yo-Sung Ho, ["Transformation-aware similarity measurement for image retargeting quality assessment via bi-directional rewarping,"](https://ieeexplore.ieee.org/document/8736027) ***IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC-S)***, accepted, 2019.</small>
 *  <small>Ke Gu, Xin Xu, Junfei Qiao, **Qiuping Jiang**, Weisi Lin, Daniel Thalmann, ["Learning a unified blind image quality metric via on-line and off-line big training instances,"](https://ieeexplore.ieee.org/document/8627983) ***IEEE Transactions on Big Data (TBD)***, accepted, Jan. 2019.</small>
 
-### Other Journals
+#### Other Journals
 *  <small>**Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang, ["Learning a referenceless stereopair quality engine with deep non-negativity constrained sparse auto-encoder,"](https://www.sciencedirect.com/science/article/abs/pii/S0031320317304582) ***Pattern Recognition (PR)***, 76: 242-255, Apr. 2018.</small>
 *  <small>**Qiuping Jiang**, Feng Shao, Gangyi Jiang, Mei Yu, Zongju Peng, ["Visual comfort assessment for stereoscopic images based on sparse coding with multi-scale dictionaries,"](https://www.sciencedirect.com/science/article/abs/pii/S0925231217306616) ***Neurocomputing (NC)***, 252: 77-86, Aug. 2017.</small>
 *  <small>**Qiuping Jiang**, Feng Shao, Wei Gao, Hong Li, Yo-Sung Ho, ["A risk-aware pairwise rank learning approach for visual discomfort prediction of stereoscopic 3D,"](https://ieeexplore.ieee.org/document/8832170) ***IEEE Signal Processing Letters (SPL)***, 26(11): 1588-1592, Nov. 2019.</small>
@@ -78,14 +78,14 @@
 *  <small>Feng Shao, Libo Shen, **Qiuping Jiang**, Randi Fu, Gangyi Jiang, ["StereoEditor: Controllable stereoscopic display by content retargeting,"](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-25-26-33202) ***Optics Express (OE)***, 25(26): 33202-33215, Dec. 2017.</small>
 *  <small>Wujie Zhou, Sijia Lv, **Qiuping Jiang**, Lu Yu, ["Deep road scene understanding,"](https://ieeexplore.ieee.org/document/8630577) ***IEEE Signal Processing Letters (SPL)***, 26(4): 587-591, Apr. 2019.</small>
 
-### International Conferences
+#### International Conferences
 *  <small>Guibiao Liao, Wei Gao, **Qiuping Jiang**, Ronggang Wang, Ge Li, "MMNet: Multi-Stage and Multi-Scale Fusion Network for RGB-D Salient Object Detection," ***ACM International Conference on Multimedia (ACM-MM)***, Seattle, WA, USA, Oct. 2020.</small>
 *  <small>Sheng Yang, **Qiuping Jiang**, Weisi Lin, Yongtao Wang, ["SGDNet: An end-to-end saliency-guided deep neural network for no-reference image quality assessment,"](https://dl.acm.org/doi/10.1145/3343031.3350990) ***ACM International Conference on Multimedia (ACM-MM)***, Nice, France, Oct. 2019.</small>
 *  <small>Chao Huang, Zongju Peng, Fen Chen, **Qiuping Jiang**, Xin Cui, Gangyi Jiang, ["Encoding complexity control for live video applications: An interpretable machine learning approach,"](https://ieeexplore.ieee.org/document/8784831) ***IEEE International Conference on Multimedia and Expo (ICME)***, Shanghai, China, Jul. 2019.</small>
 *  <small>**Qiuping Jiang**, Feng Shao, Gangyi Jiang, ["MSFE: Blind image quality assessment based on multi-stage feature encoding,"](https://ieeexplore.ieee.org/document/8296865) ***IEEE International Conference on Image Processing (ICIP)***, Beijing, China, Sep. 2017.</small>
 *  <small>**Qiuping Jiang**, Feng Shao, Gangyi Jiang, Mei Yu, Zongju Peng, ["Supervised dictionary learning for blind image quality assessment,"](https://ieeexplore.ieee.org/document/7457897/) ***IEEE International Conference on Visual Communications and Image Processing (VCIP)***, Singapore, Dec. 2015.</small>
 
-## Activities and Services
+### Activities and Services
 *  <small>**Membership**:</small> 
     - <small>IEEE（美国电气电子工程师协会）、CCF（中国计算机学会）、CSIG（中国图象图形学会）</small>
     - <small>CSIG Big Visual Data Technical Committee Member （CSIG视觉大数据专委会委员）</small>
