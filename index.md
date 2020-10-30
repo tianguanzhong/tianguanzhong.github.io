@@ -86,15 +86,15 @@
 *  <small>**Qiuping Jiang**, Feng Shao, Gangyi Jiang, Mei Yu, Zongju Peng, ["Supervised dictionary learning for blind image quality assessment,"](https://ieeexplore.ieee.org/document/7457897/) ***IEEE International Conference on Visual Communications and Image Processing (VCIP)***, Singapore, Dec. 2015.</small>
 
 ## Activities and Services
-*  **Membership**: 
+*  <small>**Membership**:</small> 
     - <small>IEEE（美国电气电子工程师协会）、CCF（中国计算机学会）、CSIG（中国图象图形学会）</small>
     - <small>CSIG Big Visual Data Technical Committee Member （CSIG视觉大数据专委会委员）</small>
     - <small>CSIG Multimedia Technical Committee Member （CSIG多媒体专委会委员）</small>
 
-*  **Special Session Organizer**: 
+*  <small>**Special Session Organizer**:</small> 
     - <small>Special Session on [Multi-source Data Processing and Analysis: Models, Methods and Applications](http://www.apsipa2019.org/#), Asia-Pacific Signal and Information Processing Association (APSIPA) ASC 2019</small>
      
-*  **Technical Program Committee Member**: 
+*  <small>**Technical Program Committee Member**:</small> 
     - <small>International Joint Conference on Artificial Intelligence (IJCAI) 2021</small>
     - <small>IEEE Visual Communiaction and Image Processing (VCIP) 2017-2020</small>
     - <small>IEEE International Conference on Image Processing (ICIP) 2018-2019</small> 
@@ -102,7 +102,7 @@
     - <small>Asia-Pacific Signal and Information Processing Association (APSIPA) ASC 2020</small>
     - <small>National Conference on Image and Graphics (NCIG) 2020</small>
     
-*  **Reviewer**: 
+*  <small>**Reviewer**:</small> 
     - <small>IEEE Transactions on Neural Networks and Learning Systems</small>  
     - <small>IEEE Transactions on Industrial Electronics</small>
     - <small>IEEE Transactions on Cybernetics</small>
