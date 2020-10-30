@@ -29,14 +29,17 @@
 <small>I am currently an Associate Professor at Ningbo University, Ningbo, China. I obtained my Ph.D. degree from School of Information Science and Engineering, Ningbo University in 2018. From Jan. 2017 to May 2018, I worked with [Prof. Lin Weisi](https://www.ntu.edu.sg/home/wslin/Index.htm) as a joint Ph.D. student at Multimedia Lab in Nanyang Technological University, Singapore.</small>
 
 ## Student Recruitment
-I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good mathematics, algorithm or programming background. 2) Must be self-motivated. 3) Work or study in the area of visual perception, image/video signal processing, or multimedia system. If you are interested, please contact via email.
+<small>I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good mathematics, algorithm or programming background. 2) Must be self-motivated. 3) Work or study in the area of visual perception, image/video signal processing, or multimedia system. If you are interested, please contact via email.</small>
 
 ## Recent News
+<small>
 *  2020/10/22, One co-authored paper was accepted for publication in ***IEEE Transactions on Image Processing (CCF-A, IF=9.340)***, Congratulations to Chao Huang.
 *  2020/10/27, One paper (first author) was accepted for publication in ***IEEE Transactions on Industrial Informatics (IF=9.112)***.
+</small>
 
 ## Publications
 ### IEEE Transactions
+<small>
 *  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Yabin Zhang, Weisi Lin, "StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection," ***IEEE Transactions on Image Processing (TIP)***, submitted, 2020.
 *  **Qiuping Jiang**, Zhenyu Peng, Guanghui Yue, Hong Li, Feng Shao, "No-reference image contrast evaluation by generating bi-directional pseudo references," ***IEEE Transactions on Industrial Informatics (TII)***, accepted, 2020.
 *  **Qiuping Jiang**, Wei Zhou, Xiongli Chai, Guanghui Yue, Feng Shao, Zhibo Chen, ["A full-reference stereoscopic image quality measurement via hierarchical deep feature degradation fusion,"](https://ieeexplore.ieee.org/document/9127513) ***IEEE Transactions on Instrumentation and Measurement (TIM)***, accepted, 2020.
@@ -59,6 +62,7 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 *  Xiongli Chai, Feng Shao, **Qiuping Jiang**, Yo-Sung Ho, [“Roundness-Preserving Warping for Aesthetic Enhancement-based Stereoscopic Image Editing,”](https://ieeexplore.ieee.org/document/9144262/) ***IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)***, accepted, 2020.
 *  Feng Shao, Zhenqi Fu, **Qiuping Jiang**, Gangyi Jiang, Yo-Sung Ho, ["Transformation-aware similarity measurement for image retargeting quality assessment via bi-directional rewarping,"](https://ieeexplore.ieee.org/document/8736027) ***IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC-S)***, accepted, 2019.
 *  Ke Gu, Xin Xu, Junfei Qiao, **Qiuping Jiang**, Weisi Lin, Daniel Thalmann, ["Learning a unified blind image quality metric via on-line and off-line big training instances,"](https://ieeexplore.ieee.org/document/8627983) ***IEEE Transactions on Big Data (TBD)***, accepted, Jan. 2019.
+</small>
 
 ### Other Journals
 *  **Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang, ["Learning a referenceless stereopair quality engine with deep non-negativity constrained sparse auto-encoder,"](https://www.sciencedirect.com/science/article/abs/pii/S0031320317304582) ***Pattern Recognition (PR)***, 76: 242-255, Apr. 2018.
