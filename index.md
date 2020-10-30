@@ -136,7 +136,7 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 *  **Special Session Organizer**: 
     - Asia-Pacific Signal and Information Processing Association (APSIPA，亚太信号与信息处理协会) ASC 2019
-
+    
 *  **Technical Program Committee Member**: 
     - International Joint Conference on Artificial Intelligence (IJCAI) 2021
     
