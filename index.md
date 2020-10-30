@@ -149,13 +149,23 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
     > IEEE Transactions on Signal and Information Processing over Networks
     
     > IEEE Internet of Things Journal
+    
     > IEEE Multimeida Magazine
+    
     > IEEE Signal Processing Letters
+    
     > Elsevier Neurocomputing
+    
     > Elsevier Signal Processing
+    
     > Elsevier Signal Processing: Image Communication
+    
     > Elsevier Journal of Visual Communication and Image Representation
+    
     > Mathematical Biosciences and Engineering
+    
     > Mathematical Problems in Engineering
+    
     > Computational Intelligence and Neuroscience
+    
     > Scientific Reports
