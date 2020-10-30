@@ -129,61 +129,36 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 ## Activities and Services
 *  **Membership**: 
     - IEEE（美国电气电子工程师协会）、CCF（中国计算机学会）、CSIG（中国图象图形学会）
-    
     - CSIG Big Visual Data Technical Committee Member （CSIG视觉大数据专委会委员）
-    
     - CSIG Multimedia Technical Committee Member （CSIG多媒体专委会委员）
 
 *  **Special Session Organizer**: 
     - Special Session on [Multi-source Data Processing and Analysis: Models, Methods and Applications](http://www.apsipa2019.org/#), Asia-Pacific Signal and Information Processing Association (APSIPA) ASC 2019
      
-    
 *  **Technical Program Committee Member**: 
     - International Joint Conference on Artificial Intelligence (IJCAI) 2021
-    
     - IEEE Visual Communiaction and Image Processing (VCIP) 2017-2020
-    
-    - IEEE International Conference on Image Processing (ICIP) 2018-2019
-    
+    - IEEE International Conference on Image Processing (ICIP) 2018-2019 
     - IEEE International Conference on Multimedia & Expo (ICME) 2020
-    
     - Asia-Pacific Signal and Information Processing Association (APSIPA) ASC 2020
-    
     - National Conference on Image and Graphics (NCIG) 2020
-
+    
 *  **Reviewer**: 
     - IEEE Transactions on Neural Networks and Learning Systems  
-    
     - IEEE Transactions on Industrial Electronics  
-    
     - IEEE Transactions on Cybernetics
-    
     - IEEE Transactions on Image Processing
-    
     - IEEE Transactions on Circuits Systems for Video Technology
-    
     - IEEE Transactions on Multimeida
-    
     - IEEE Transactions on Signal and Information Processing over Networks
-    
     - IEEE Internet of Things Journal
-    
     - IEEE Multimeida Magazine
-    
     - IEEE Signal Processing Letters
-    
     - Elsevier Neurocomputing
-    
     - Elsevier Signal Processing
-    
     - Elsevier Signal Processing: Image Communication
-    
     - Elsevier Journal of Visual Communication and Image Representation
-    
     - Mathematical Biosciences and Engineering
-    
     - Mathematical Problems in Engineering
-    
     - Computational Intelligence and Neuroscience
-    
     - Scientific Reports
