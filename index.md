@@ -26,7 +26,7 @@
 </table>
 
 ## Short Biography
-I am currently an Associate Professor at Ningbo University, Ningbo, China. I obtained my Ph.D. degree from School of Information Science and Engineering, Ningbo University in 2018. From Jan. 2017 to May 2018, I worked with [Prof. Lin Weisi](https://www.ntu.edu.sg/home/wslin/Index.htm) as a joint Ph.D. student at Multimedia Lab in Nanyang Technological University, Singapore.
+<small>I am currently an Associate Professor at Ningbo University, Ningbo, China. I obtained my Ph.D. degree from School of Information Science and Engineering, Ningbo University in 2018. From Jan. 2017 to May 2018, I worked with [Prof. Lin Weisi](https://www.ntu.edu.sg/home/wslin/Index.htm) as a joint Ph.D. student at Multimedia Lab in Nanyang Technological University, Singapore.</small>
 
 ## Student Recruitment
 I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good mathematics, algorithm or programming background. 2) Must be self-motivated. 3) Work or study in the area of visual perception, image/video signal processing, or multimedia system. If you are interested, please contact via email.
