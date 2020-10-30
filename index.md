@@ -127,11 +127,27 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 
 ## Activities and Services
-*  **Membership**: IEEE（美国电气电子工程师协会）/CCF（中国计算机学会）/CSIG（中国图象图形学会） Member、CSIG Big Visual Data Technical Committee Member （CSIG视觉大数据专委会委员）、CSIG Multimedia Technical Committee Member （CSIG多媒体专委会委员）
+*  **Membership**: 
+    - IEEE（美国电气电子工程师协会）/CCF（中国计算机学会）/CSIG（中国图象图形学会）
+    
+    - CSIG Big Visual Data Technical Committee Member （CSIG视觉大数据专委会委员）
+    
+    - CSIG Multimedia Technical Committee Member （CSIG多媒体专委会委员）
 
 *  **Special Session Organizer**: Asia-Pacific Signal and Information Processing Association (APSIPA，亚太信号与信息处理协会) ASC 2019
 
-*  **Technical Program Committee Member**: IJCAI2021、IEEE VCIP 2017-2020、IEEE ICIP 2018-2019、IEEE ICME 2020、APSIPA ASC 2020、NCIG 2020
+*  **Technical Program Committee Member**: 
+    - International Joint Conference on Artificial Intelligence (IJCAI) 2021
+    
+    - IEEE Visual Communiaction and Image Processing (VCIP) 2017-2020
+    
+    - IEEE International Conference on Image Processing (ICIP) 2018-2019
+    
+    - IEEE International Conference on Multimedia & Expo (ICME) 2020
+    
+    - Asia-Pacific Signal and Information Processing Association (APSIPA) ASC 2020
+    
+    - National Conference on Image and Graphics (NCIG) 2020
 
 *  **Reviewer**: 
     - IEEE Transactions on Neural Networks and Learning Systems  
