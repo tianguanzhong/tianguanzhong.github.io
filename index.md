@@ -37,7 +37,6 @@
 
 ## Publications
 ### IEEE Transactions
-<small>
 *  <small>**Qiuping Jiang**, Zhenyu Peng, Feng Shao, Yabin Zhang, Weisi Lin, "StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection," ***IEEE Transactions on Image Processing (TIP)***, submitted, 2020.</small>
 *  <small>**Qiuping Jiang**, Zhenyu Peng, Guanghui Yue, Hong Li, Feng Shao, "No-reference image contrast evaluation by generating bi-directional pseudo references," ***IEEE Transactions on Industrial Informatics (TII)***, accepted, 2020.</small>
 *  <small>**Qiuping Jiang**, Wei Zhou, Xiongli Chai, Guanghui Yue, Feng Shao, Zhibo Chen, ["A full-reference stereoscopic image quality measurement via hierarchical deep feature degradation fusion,"](https://ieeexplore.ieee.org/document/9127513) ***IEEE Transactions on Instrumentation and Measurement (TIM)***, accepted, 2020.</small>
@@ -60,7 +59,6 @@
 *  <small>Xiongli Chai, Feng Shao, **Qiuping Jiang**, Yo-Sung Ho, [“Roundness-Preserving Warping for Aesthetic Enhancement-based Stereoscopic Image Editing,”](https://ieeexplore.ieee.org/document/9144262/) ***IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)***, accepted, 2020.</small>
 *  <small>Feng Shao, Zhenqi Fu, **Qiuping Jiang**, Gangyi Jiang, Yo-Sung Ho, ["Transformation-aware similarity measurement for image retargeting quality assessment via bi-directional rewarping,"](https://ieeexplore.ieee.org/document/8736027) ***IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC-S)***, accepted, 2019.</small>
 *  <small>Ke Gu, Xin Xu, Junfei Qiao, **Qiuping Jiang**, Weisi Lin, Daniel Thalmann, ["Learning a unified blind image quality metric via on-line and off-line big training instances,"](https://ieeexplore.ieee.org/document/8627983) ***IEEE Transactions on Big Data (TBD)***, accepted, Jan. 2019.</small>
-</small>
 
 ### Other Journals
 *  <small>**Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang, ["Learning a referenceless stereopair quality engine with deep non-negativity constrained sparse auto-encoder,"](https://www.sciencedirect.com/science/article/abs/pii/S0031320317304582) ***Pattern Recognition (PR)***, 76: 242-255, Apr. 2018.</small>
