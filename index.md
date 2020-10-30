@@ -33,6 +33,7 @@
 
 ## Recent News
 <small>*  2020/10/22, One co-authored paper was accepted for publication in ***IEEE Transactions on Image Processing (CCF-A, IF=9.340)***, Congratulations to Chao Huang.</small>
+
 <small>*  2020/10/27, One paper (first author) was accepted for publication in ***IEEE Transactions on Industrial Informatics (IF=9.112)***.</small>
 
 ## Publications
