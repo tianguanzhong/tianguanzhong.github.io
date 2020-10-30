@@ -135,7 +135,7 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
     - CSIG Multimedia Technical Committee Member （CSIG多媒体专委会委员）
 
 *  **Special Session Organizer**: 
-    - Asia-Pacific Signal and Information Processing Association (APSIPA，亚太信号与信息处理协会) ASC 2019: Special Session on Multi-source Data Processing and Analysis: Models, Methods and Applications
+    - Asia-Pacific Signal and Information Processing Association (APSIPA) ASC 2019: Special Session on Multi-source Data Processing and Analysis: Models, Methods and Applications
 
 *  **Technical Program Committee Member**: 
     - International Joint Conference on Artificial Intelligence (IJCAI) 2021
