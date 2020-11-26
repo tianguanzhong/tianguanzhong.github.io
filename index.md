@@ -25,6 +25,7 @@
     </td>
   </tr></tbody>
 </table>
+</small>
 
 ### Short Biography
 I am currently an Associate Professor at Ningbo University, Ningbo, China. I obtained my Ph.D. degree in Signal and Information Processing from the School of Information Science and Engineering at Ningbo University in June 2018. From Jan. 2017 to May 2018, I worked with [Prof. Lin Weisi](https://www.ntu.edu.sg/home/wslin/Index.htm) as a visiting Ph.D. student at Multimedia Lab in Nanyang Technological University, Singapore.
@@ -124,4 +125,3 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
     - Mathematical Problems in Engineering
     - Computational Intelligence and Neuroscience
     - Scientific Reports
-</small>
