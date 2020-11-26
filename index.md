@@ -98,9 +98,9 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
      
 *  **Technical Program Committee Member**:
     - International Joint Conference on Artificial Intelligence (IJCAI) 2021
-    - IEEE Visual Communiaction and Image Processing (VCIP) 2017-2020
-    - IEEE International Conference on Image Processing (ICIP) 2018、2019
     - IEEE International Conference on Multimedia & Expo (ICME) 2020、2021
+    - IEEE International Conference on Image Processing (ICIP) 2018、2019
+    - IEEE Visual Communiaction and Image Processing (VCIP) 2017-2020
     - Asia-Pacific Signal and Information Processing Association (APSIPA) ASC 2020
     - National Conference on Image and Graphics (NCIG) 2020
     
