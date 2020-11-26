@@ -26,16 +26,16 @@
 </table>
 
 ### Short Biography
-<small>I am currently an Associate Professor at Ningbo University, Ningbo, China. I obtained my Ph.D. degree in Signal and Information Processing from the School of Information Science and Engineering at Ningbo University in June 2018. From Jan. 2017 to May 2018, I worked with [Prof. Lin Weisi](https://www.ntu.edu.sg/home/wslin/Index.htm) as a visiting Ph.D. student at Multimedia Lab in Nanyang Technological University, Singapore.</small>
+I am currently an Associate Professor at Ningbo University, Ningbo, China. I obtained my Ph.D. degree in Signal and Information Processing from the School of Information Science and Engineering at Ningbo University in June 2018. From Jan. 2017 to May 2018, I worked with [Prof. Lin Weisi](https://www.ntu.edu.sg/home/wslin/Index.htm) as a visiting Ph.D. student at Multimedia Lab in Nanyang Technological University, Singapore.
 
 ### Student Recruitment
-<small>I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good mathematics, algorithm or programming background. 2) Must be self-motivated. 3) Work or study in the area of visual perception, image/video signal processing, or multimedia system. If you are interested, please contact via email.</small>
+I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good mathematics, algorithm or programming background. 2) Must be self-motivated. 3) Work or study in the area of visual perception, image/video signal processing, or multimedia system. If you are interested, please contact via email.
 
 ### Recent News
-*  <small>2020/11/23, I was invited to serve as the Meta-reviewer/Area Chair of the ***IEEE Intrnational Conference on Multimedia & Expo (ICME) 2021***, which will be held in July 5-9, 2021, Shenzhen, China.</small>
-*  <small>2020/10/31, I was invited to serve as the Technical Program Committee Member of the ***the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)***, which will be held in Aug. 2021, Montreal, Canada.</small>
-*  <small>2020/10/22, One co-authored paper was accepted for publication in ***IEEE Transactions on Image Processing (CCF-A, IF=9.340)***, Congratulations to Chao Huang.</small>
-*  <small>2020/10/27, One paper (first author) was accepted for publication in ***IEEE Transactions on Industrial Informatics (IF=9.112)***.</small>
+*  2020/11/23, I was invited to serve as the Meta-reviewer/Area Chair of the ***IEEE Intrnational Conference on Multimedia & Expo (ICME) 2021***, which will be held in July 5-9, 2021, Shenzhen, China.
+*  2020/10/31, I was invited to serve as the Technical Program Committee Member of the ***the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)***, which will be held in Aug. 2021, Montreal, Canada.
+*  2020/10/22, One co-authored paper was accepted for publication in ***IEEE Transactions on Image Processing (CCF-A, IF=9.340)***, Congratulations to Chao Huang.
+*  2020/10/27, One paper (first author) was accepted for publication in ***IEEE Transactions on Industrial Informatics (IF=9.112)***.
 
 ### Publications
 #### IEEE Transactions
