@@ -1,3 +1,4 @@
+<small>
 <table class="cv">
   <tbody><tr>
     <td>
@@ -123,3 +124,4 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
     - Mathematical Problems in Engineering
     - Computational Intelligence and Neuroscience
     - Scientific Reports
+</small>
