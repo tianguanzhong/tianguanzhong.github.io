@@ -125,3 +125,6 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
     - Mathematical Problems in Engineering
     - Computational Intelligence and Neuroscience
     - Scientific Reports
+    - 电子学报
+    - 计算机学报
+    - China Communication
