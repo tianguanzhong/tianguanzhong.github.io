@@ -33,7 +33,7 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 ### Recent News
 *  2020/12/05, One paper (corresponding author) was accepted for publication in ***IEEE Transactions on Computational Imaging (IF=4.015)***.
-*  2020/11/23, I was invited to serve as the Meta-reviewer/Area Chair of the ***[IEEE Intrnational Conference on Multimedia & Expo (ICME) 2021](https://2021.ieeeicme.org/)***, which will be held in July 5-9, 2021, Shenzhen, China.
+*  2020/11/23, I was invited to serve as the Area Chair of the ***[IEEE Intrnational Conference on Multimedia & Expo (ICME) 2021](https://2021.ieeeicme.org/)***, which will be held in July 5-9, 2021, Shenzhen, China.
 *  2020/10/31, I was invited to serve as the Technical Program Committee Member of the ***[the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)](https://ijcai-21.org/)***, which will be held in Aug. 2021, Montreal, Canada.
 *  2020/10/22, One co-authored paper was accepted for publication in ***IEEE Transactions on Image Processing (CCF-A, IF=9.340)***, Congratulations to Chao Huang.
 *  2020/10/27, One paper (first author) was accepted for publication in ***IEEE Transactions on Industrial Informatics (IF=9.112)***.
