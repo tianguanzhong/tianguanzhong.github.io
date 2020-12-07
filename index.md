@@ -127,4 +127,4 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
     - Scientific Reports
     - 电子学报
     - 计算机学报
-    - China Communication
+    - China Communications
