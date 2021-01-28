@@ -40,6 +40,8 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 ### Publications
 #### IEEE Transactions
+*  Zhenyu Peng, **Qiuping Jiang<sup>\*</sup>**, Feng Shao, Wei Gao, "LGGD: Image retargeting quality assessment by measuring local and global geometric distortions," ***IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)***, submitted, 2020.
+*  Yudong Mao, **Qiuping Jiang<sup>\*</sup>**, Runmin Cong, Wei Gao, Feng Shao, Sam Kwong, "Cross-modality fusion and progressive integration network for saliency prediction on stereoscopic 3D images," ***IEEE Transactions on Multimedia (TMM)***, submitted, 2020.
 *  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Yabin Zhang, Weisi Lin, "StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection," ***IEEE Transactions on Image Processing (TIP)***, submitted, 2020.
 *  Feng Shao, Yanjia Fei, **Qiuping Jiang<sup>\*</sup>**, Xiangchao Meng, Yo-Sung Ho, ["Building stereoscopic zoomer via global and local warping optimization,"](https://ieeexplore.ieee.org/document/9288920) ***IEEE Transactions on Computational Imaging (TCI)***, accepted, 2020.
 *  **Qiuping Jiang**, Zhenyu Peng, Guanghui Yue, Hong Li, Feng Shao, ["No-reference image contrast evaluation by generating bi-directional pseudo references,"](https://ieeexplore.ieee.org/document/9247305) ***IEEE Transactions on Industrial Informatics (TII)***, accepted, 2020.
