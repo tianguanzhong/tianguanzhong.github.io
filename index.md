@@ -62,7 +62,7 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 *  **Qiuping Jiang**, Feng Shao, Weisi Lin, Ke Gu, Gangyi Jiang, Huifang Sun, **"Optimizing multistage discriminative dictionaries for blind image quality assessment,"** *IEEE Transactions on Multimedia (TMM)*, 20(8): 2035-2048, Aug. 2018. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8068275)]
 
-*  Xuejin Wang<sup>\#</sup>, **Qiuping Jiang<sup>\#</sup>**, Feng Shao, Ke Gu, Guangtao Zhai, Xiaokang Yang, **"Exploiting local degradation characteristics and global statistical properties for blind assessment of tone-mapped HDR images,"** *IEEE Transactions on Multimedia (TMM)*, accepted, 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9064671/)]
+*  Xuejin Wang<sup>\#</sup>, **Qiuping Jiang<sup>\#</sup>**, Feng Shao, Ke Gu, Guangtao Zhai, Xiaokang Yang, **"Exploiting local degradation characteristics and global statistical properties for blind assessment of tone-mapped HDR images,"** *IEEE Transactions on Multimedia (TMM)*, 23: 692-705, 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9064671/)]
 
 *  Chao Huang, Zongju Peng, Yong Xu, Feng Chen, **Qiuping Jiang**, Yun Zhang, Gangyi Jiang, Yo-Sung Ho, **"Online learning-based multi-stage complexity control for live video coding,"** *IEEE Transactions on Image Processing (TIP)*, 30: 641-656, 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9259230/)]
 
