@@ -172,7 +172,7 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
     - Elsevier Signal Processing
     - Elsevier Signal Processing: Image Communication
     - Elsevier Journal of Visual Communication and Image Representation
-    - Mathematical Biosciences and Engineering
+    - IET Image Processing
     - Mathematical Problems in Engineering
     - Computational Intelligence and Neuroscience
     - Scientific Reports
