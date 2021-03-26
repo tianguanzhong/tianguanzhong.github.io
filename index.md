@@ -164,7 +164,7 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
     - IEEE Transactions on Image Processing
     - IEEE Transactions on Circuits Systems for Video Technology
     - IEEE Transactions on Multimeida
-    - IEEE Transactions on Signal and Information Processing over Networks
+    - IEEE Transactions on Broadcasting
     - IEEE Internet of Things Journal
     - IEEE Multimeida Magazine
     - IEEE Signal Processing Letters
@@ -173,9 +173,8 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
     - Elsevier Signal Processing: Image Communication
     - Elsevier Journal of Visual Communication and Image Representation
     - IET Image Processing
-    - Mathematical Problems in Engineering
-    - Computational Intelligence and Neuroscience
-    - Scientific Reports
+    - IET Signal Processing
+    - China Communications
     - 电子学报
     - 计算机学报
-    - China Communications
+    - 中国图象图形学报
