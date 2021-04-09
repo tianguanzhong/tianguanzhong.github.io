@@ -39,38 +39,56 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 *  2020/10/27, One paper (first author) was accepted for publication in ***IEEE Transactions on Industrial Informatics (IF=9.112)***.
 
 ### Publications
-#### IEEE Transactions
+#### Submitted
 *  Zhenyu Peng, **Qiuping Jiang<sup>\*</sup>**, Feng Shao, Wei Gao, **"LGGD: Image retargeting quality assessment by measuring local and global geometric distortions,"** *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, submitted, 2020.
 
 *  Yudong Mao, **Qiuping Jiang<sup>\*</sup>**, Runmin Cong, Wei Gao, Feng Shao, Sam Kwong, **"Cross-modality fusion and progressive integration network for saliency prediction on stereoscopic 3D images,"** *IEEE Transactions on Multimedia (TMM)*, submitted, 2020.
 
 *  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Yabin Zhang, Weisi Lin, **"StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection,"** *IEEE Transactions on Image Processing (TIP)*, submitted, 2020.
 
-*  **Qiuping Jiang**, Zhenyu Peng, Guanghui Yue, Hong Li, Feng Shao, **"No-reference image contrast evaluation by generating bi-directional pseudo references,"** *IEEE Transactions on Industrial Informatics (TII)*, in press, 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9247305)]
+#### In Press
+*  Xuejin Wang, Feng Shao, **Qiuping Jiang**, Xiongli Chai, Xiangchao Meng, Yo-Sung Ho, **"List-wise rank learning for stereoscopic image retargeting quality assessment,"** *IEEE Transactions on Multimedia (TMM)*, in press, 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9388879)]
 
-*  Feng Shao, Yanjia Fei, **Qiuping Jiang<sup>\*</sup>**, Xiangchao Meng, Yo-Sung Ho, **"Building stereoscopic zoomer via global and local warping optimization,"** *IEEE Transactions on Computational Imaging (TCI)*, 6: 1622-1635, Dec. 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9288920)]
+*  Xuejin Wang, Feng Shao, **Qiuping Jiang**, Xiangchao Meng, Yo-Sung Ho, **"Measuring coarse-to-fine texture and geometric distortions for quality assessment of DIBR-synthesized images,"** *IEEE Transactions on Multimedia (TMM)*, in press, 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9091246)]
+
+*  Zhenqi Fu, Feng Shao, **Qiuping Jiang**, Xiangchao Meng, Yo-Sung Ho, **"Subjective and objective quality assessment for stereoscopic 3D image retargeting,"** *IEEE Transactions on Multimedia (TMM)*, in press, 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9139288)]
+
+*  Feng Shao, Zhenqi Fu, **Qiuping Jiang**, Gangyi Jiang, Yo-Sung Ho, **"Transformation-aware similarity measurement for image retargeting quality assessment via bi-directional rewarping,"** *IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC-S)*, in press, 2019. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8736027)]
+
+#### IEEE Transactions/Journals/Lettrs
+*  **Qiuping Jiang**, Zhenyu Peng, Guanghui Yue, Hong Li, Feng Shao, **"No-reference image contrast evaluation by generating bi-directional pseudo references,"** *IEEE Transactions on Industrial Informatics (TII)*, in press, 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9247305)]
 
 *  **Qiuping Jiang**, Wei Zhou, Xiongli Chai, Guanghui Yue, Feng Shao, Zhibo Chen, **"A full-reference stereoscopic image quality measurement via hierarchical deep feature degradation fusion,"** *IEEE Transactions on Instrumentation and Measurement (TIM)*, 69(12): 9784-9796, Dec. 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9127513)]
 
-*  **Qiuping Jiang**, Wei Gao, Shiqi Wang, Guanghui Yue, Feng Shao, Yo-Sung Ho, Sam Kwong, **"Blind image quality measurement by exploiting high order statistics with deep dictionary encoding network,"** *IEEE Transactions on Instrumentation and Measurement (TIM)*, 69(10): 7398-7410, Oct. 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9055066/)]
+*  **Qiuping Jiang**, Wei Gao, Shiqi Wang, Guanghui Yue, Feng Shao, Yo-Sung Ho, Sam Kwong, **"Blind image quality measurement by exploiting high order statistics with deep dictionary encoding network,"** *IEEE Transactions on Instrumentation and Measurement (TIM)*, 69(10): 7398-7410, Oct. 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9055066)]
 
 *  **Qiuping Jiang**, Feng Shao, Wei Gao, Zhuo Chen, Gangyi Jiang, Yo-Sung Ho, **"Unified no-reference quality assessment of singly and multiply distorted stereoscopic images,"** *IEEE Transactions on Image Processing (TIP)*, 28(4): 1866-1881, Apr. 2019. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8540445)]
 
-*  **Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang, **"BLIQUE-TMI: Blind quality evaluator for tone-mapped images based on local and global feature analyses,"** *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, 29(2): 323-335, Feb. 2019. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8214257/)]
+*  **Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang, **"BLIQUE-TMI: Blind quality evaluator for tone-mapped images based on local and global feature analyses,"** *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, 29(2): 323-335, Feb. 2019. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8214257)]
 
-*  **Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang, **"Learning sparse representation for objective image retargeting quality assessment,"** *IEEE Transactions on Cybernetics (TCYB)*, 48(4): 1276-1289, Apr. 2018. [[IEEE Xplore](https://ieeexplore.ieee.org/document/7898810/)]
+*  **Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang, **"Learning sparse representation for objective image retargeting quality assessment,"** *IEEE Transactions on Cybernetics (TCYB)*, 48(4): 1276-1289, Apr. 2018. [[IEEE Xplore](https://ieeexplore.ieee.org/document/7898810)]
 
 *  **Qiuping Jiang**, Feng Shao, Weisi Lin, Ke Gu, Gangyi Jiang, Huifang Sun, **"Optimizing multistage discriminative dictionaries for blind image quality assessment,"** *IEEE Transactions on Multimedia (TMM)*, 20(8): 2035-2048, Aug. 2018. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8068275)]
 
-*  Xuejin Wang<sup>\#</sup>, **Qiuping Jiang<sup>\#</sup>**, Feng Shao, Ke Gu, Guangtao Zhai, Xiaokang Yang, **"Exploiting local degradation characteristics and global statistical properties for blind assessment of tone-mapped HDR images,"** *IEEE Transactions on Multimedia (TMM)*, 23: 692-705, 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9064671/)]
+*  **Qiuping Jiang**, Feng Shao, Wei Gao, Hong Li, Yo-Sung Ho, **"A risk-aware pairwise rank learning approach for visual discomfort prediction of stereoscopic 3D,"** *IEEE Signal Processing Letters (SPL)*, 26(11): 1588-1592, Nov. 2019. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8832170)]
 
-*  Chao Huang, Zongju Peng, Yong Xu, Feng Chen, **Qiuping Jiang**, Yun Zhang, Gangyi Jiang, Yo-Sung Ho, **"Online learning-based multi-stage complexity control for live video coding,"** *IEEE Transactions on Image Processing (TIP)*, 30: 641-656, 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9259230/)]
+*  **Qiuping Jiang**, Zhenyu Peng, Sheng Yang, Feng Shao, **"Authentically distorted image quality assessment by learning from empirical score distributions,"** *IEEE Signal Processing Letters (SPL)*, 26(12): 1867-1871, Dec. 2019. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8890868)]
+
+*  **Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang, **"On predicting visual comfort of stereoscopic images: A learning to rank based approach,"** *IEEE Signal Processing Letters (SPL)*, 23(2): 302-306, Feb. 2016. [[IEEE Xplore](https://ieeexplore.ieee.org/document/7378462)]
+
+*  Xuejin Wang<sup>\#</sup>, **Qiuping Jiang<sup>\#</sup>**, Feng Shao, Ke Gu, Guangtao Zhai, Xiaokang Yang, **"Exploiting local degradation characteristics and global statistical properties for blind assessment of tone-mapped HDR images,"** *IEEE Transactions on Multimedia (TMM)*, 23: 692-705, 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9064671)]
+  
+*  Feng Shao, Yanjia Fei, **Qiuping Jiang<sup>\*</sup>**, Xiangchao Meng, Yo-Sung Ho, **"Building stereoscopic zoomer via global and local warping optimization,"** *IEEE Transactions on Computational Imaging (TCI)*, 6: 1622-1635, Dec. 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9288920)]
+
+*  Chao Huang, Zongju Peng, Yong Xu, Feng Chen, **Qiuping Jiang**, Yun Zhang, Gangyi Jiang, Yo-Sung Ho, **"Online learning-based multi-stage complexity control for live video coding,"** *IEEE Transactions on Image Processing (TIP)*, 30: 641-656, 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9259230)]
+
+*  Xiongli Chai, Feng Shao, **Qiuping Jiang**, Yo-Sung Ho, **"Roundness-preserving warping for aesthetic enhancement-based stereoscopic image editing,"** *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, 31(4): 1463-1477, 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9144262)]
 
 *  Ke Gu, Xin Xu, Junfei Qiao, **Qiuping Jiang**, Weisi Lin, Daniel Thalmann, **"Learning a unified blind image quality metric via on-line and off-line big training instances,"** *IEEE Transactions on Big Data (TBD)*, 6(4): 780-791, Dec. 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8627983)]
 
 *  Sheng Yang, Guosheng Lin, **Qiuping Jiang**, Weisi Lin, **"A dilated inception network for visual saliency prediction,"** *IEEE Transactions on Multimedia (TMM)*, 22(8): 2163-2176, Aug. 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8868198)]
 
-*  Wujie Zhou, Jingsheng Lei, **Qiuping Jiang**, Lu Yu, Ting Luo, **"Blind binocular visual quality predictor using deep fusion network,"** *IEEE Transactions on Computational Imaging (TCI)*, 6: 883-893, 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9093188/)]
+*  Wujie Zhou, Jingsheng Lei, **Qiuping Jiang**, Lu Yu, Ting Luo, **"Blind binocular visual quality predictor using deep fusion network,"** *IEEE Transactions on Computational Imaging (TCI)*, 6: 883-893, 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9093188)]
 
 *  Xiongli Chai, Feng Shao, **Qiuping Jiang**, Yo-Sung Ho, **"MSTGAR: Multioperator based stereoscopic thumbnail generation with arbitrary resolution,"** *IEEE Transactions on Multimedia (TMM)*, 22(5): 1208-1219, May 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8826244)]
 
@@ -82,24 +100,10 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 *  Feng Shao, Wenchong Lin, Weisi Lin, **Qiuping Jiang**, Gangyi Jiang, **"QoE-guided warping for stereoscopic image retargeting,"** *IEEE Transactions on Image Processing (TIP)*, 26(10): 4790-4805, Oct. 2017. [[IEEE Xplore](https://ieeexplore.ieee.org/document/7962290)]
 
-*  Xuejin Wang, Feng Shao, **Qiuping Jiang**, Mengxiang Chao, Yo-Sung Ho, **"Measuring coarse-to-fine texture and geometric distortions for quality assessment of DIBR-synthesized images,"** *IEEE Transactions on Multimedia (TMM)*, in press, 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9091246)]
-
-*  Zhenqi Fu, Feng Shao, **Qiuping Jiang**, Xiangchao Meng, Yo-Sung Ho, **"Subjective and objective quality assessment for stereoscopic 3D image retargeting,"** *IEEE Transactions on Multimedia (TMM)*, in press, 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9139288/)]
-
-*  Xiongli Chai, Feng Shao, **Qiuping Jiang**, Yo-Sung Ho, **"Roundness-preserving warping for aesthetic enhancement-based stereoscopic image editing,"** *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, in press, 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9144262/)]
-
-*  Feng Shao, Zhenqi Fu, **Qiuping Jiang**, Gangyi Jiang, Yo-Sung Ho, **"Transformation-aware similarity measurement for image retargeting quality assessment via bi-directional rewarping,"** *IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC-S)*, in press, 2019. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8736027)]
-
 #### Other Journals
 *  **Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang, **"Learning a referenceless stereopair quality engine with deep non-negativity constrained sparse auto-encoder,"** *Pattern Recognition (PR)*, 76: 242-255, Apr. 2018. [[ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0031320317304582)]
 
 *  **Qiuping Jiang**, Feng Shao, Gangyi Jiang, Mei Yu, Zongju Peng, **"Visual comfort assessment for stereoscopic images based on sparse coding with multi-scale dictionaries,"** *Neurocomputing (NC)*, 252: 77-86, Aug. 2017. [[ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0925231217306616)]
-
-*  **Qiuping Jiang**, Feng Shao, Wei Gao, Hong Li, Yo-Sung Ho, **"A risk-aware pairwise rank learning approach for visual discomfort prediction of stereoscopic 3D,"** *IEEE Signal Processing Letters (SPL)*, 26(11): 1588-1592, Nov. 2019. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8832170)]
-
-*  **Qiuping Jiang**, Zhenyu Peng, Sheng Yang, Feng Shao, **"Authentically distorted image quality assessment by learning from empirical score distributions,"** *IEEE Signal Processing Letters (SPL)*, 26(12): 1867-1871, Dec. 2019. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8890868/)]
-
-*  **Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang, **"On predicting visual comfort of stereoscopic images: A learning to rank based approach,"** *IEEE Signal Processing Letters (SPL)*, 23(2): 302-306, Feb. 2016. [[IEEE Xplore](https://ieeexplore.ieee.org/document/7378462/)]
 
 *  **Qiuping Jiang**, Feng Shao, Gangyi Jiang, Mei Yu, Zongju Peng, **"Supervised dictionary learning for blind image quality assessment using quality-constraint sparse coding,"** *Journal of Visual Communication and Image Representation (JVCI)*, 33: 123-133, Nov. 2015. [[ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1047320315001789)]
 
