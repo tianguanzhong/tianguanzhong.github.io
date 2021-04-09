@@ -32,6 +32,7 @@ I am currently an Associate Professor at Ningbo University, Ningbo, China. I obt
 I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good mathematics, algorithm or programming background. 2) Must be self-motivated. 3) Work or study in the area of visual perception, image/video signal processing, or multimedia system. If you are interested, please contact via email.
 
 ### Recent News
+*  2021/03/29, One co-authored paper was accepted for publication in ***IEEE Transactions on Multimedia (IF=6.051)***.
 *  2020/12/05, One paper (corresponding author) was accepted for publication in ***IEEE Transactions on Computational Imaging (IF=4.015)***.
 *  2020/11/23, I was invited to serve as the Area Chair of the ***[IEEE Intrnational Conference on Multimedia & Expo (ICME) 2021](https://2021.ieeeicme.org/)***, which will be held in July 5-9, 2021, Shenzhen, China.
 *  2020/10/31, I was invited to serve as the Technical Program Committee Member of the ***[the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)](https://ijcai-21.org/)***, which will be held in Aug. 2021, Montreal, Canada.
@@ -42,9 +43,11 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 #### Submitted
 *  Zhenyu Peng, **Qiuping Jiang<sup>\*</sup>**, Feng Shao, Wei Gao, **"LGGD: Image retargeting quality assessment by measuring local and global geometric distortions,"** *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, submitted, 2020.
 
-*  Yudong Mao, **Qiuping Jiang<sup>\*</sup>**, Runmin Cong, Wei Gao, Feng Shao, Sam Kwong, **"Cross-modality fusion and progressive integration network for saliency prediction on stereoscopic 3D images,"** *IEEE Transactions on Multimedia (TMM)*, submitted, 2020.
+*  Yudong Mao, **Qiuping Jiang<sup>\*</sup>**, Runmin Cong, Wei Gao, Feng Shao, Sam Kwong, **"Cross-modality fusion and progressive integration network for saliency prediction on stereoscopic 3D images,"** *IEEE Transactions on Multimedia (TMM)*, Major revision, 2020.
 
 *  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Yabin Zhang, Weisi Lin, **"StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection,"** *IEEE Transactions on Image Processing (TIP)*, submitted, 2020.
+
+* Wei Zhou, Jiahua Xu, **Qiuping Jiang**, Zhibo Chen, **"No-reference quality assessment for 360-degree images by analysis of multi-frequency information and local-global naturalness,"** *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, Major revision, 2021.
 
 #### In Press
 *  Xuejin Wang, Feng Shao, **Qiuping Jiang**, Xiongli Chai, Xiangchao Meng, Yo-Sung Ho, **"List-wise rank learning for stereoscopic image retargeting quality assessment,"** *IEEE Transactions on Multimedia (TMM)*, in press, 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9388879)]
