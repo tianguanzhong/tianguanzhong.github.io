@@ -49,6 +49,8 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 * Wei Zhou, Jiahua Xu, **Qiuping Jiang**, Zhibo Chen, **"No-reference quality assessment for 360-degree images by analysis of multi-frequency information and local-global naturalness,"** *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, Major revision, 2021.
 
+* Sheng Yang, Weisi Lin, Guosheng Lin, **Qiuping Jiang**, Zichuan Liu, **"Progressive Self-Guided Loss for Salient Object Detection,"** *IEEE Transactions on Image Processing (TIP)*, submitted, 2021.
+
 #### In Press
 *  Xuejin Wang, Feng Shao, **Qiuping Jiang**, Xiongli Chai, Xiangchao Meng, Yo-Sung Ho, **"List-wise rank learning for stereoscopic image retargeting quality assessment,"** *IEEE Transactions on Multimedia (TMM)*, in press, 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9388879)]
 
