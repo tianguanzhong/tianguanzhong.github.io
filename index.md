@@ -58,8 +58,6 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 *  Zhenqi Fu, Feng Shao, **Qiuping Jiang**, Xiangchao Meng, Yo-Sung Ho, **"Subjective and objective quality assessment for stereoscopic 3D image retargeting,"** *IEEE Transactions on Multimedia (TMM)*, in press, 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9139288)]
 
-*  Feng Shao, Zhenqi Fu, **Qiuping Jiang**, Gangyi Jiang, Yo-Sung Ho, **"Transformation-aware similarity measurement for image retargeting quality assessment via bi-directional rewarping,"** *IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC-S)*, in press, 2019. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8736027)]
-
 #### IEEE Transactions/Journals/Lettrs
 *  **Qiuping Jiang**, Zhenyu Peng, Guanghui Yue, Hong Li, Feng Shao, **"No-reference image contrast evaluation by generating bi-directional pseudo references,"** *IEEE Transactions on Industrial Informatics (TII)*, in press, 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9247305)]
 
@@ -88,6 +86,8 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 *  Chao Huang, Zongju Peng, Yong Xu, Feng Chen, **Qiuping Jiang**, Yun Zhang, Gangyi Jiang, Yo-Sung Ho, **"Online learning-based multi-stage complexity control for live video coding,"** *IEEE Transactions on Image Processing (TIP)*, 30: 641-656, 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9259230)]
 
 *  Xiongli Chai, Feng Shao, **Qiuping Jiang**, Yo-Sung Ho, **"Roundness-preserving warping for aesthetic enhancement-based stereoscopic image editing,"** *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, 31(4): 1463-1477, 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9144262)]
+
+*  Feng Shao, Zhenqi Fu, **Qiuping Jiang**, Gangyi Jiang, Yo-Sung Ho, **"Transformation-aware similarity measurement for image retargeting quality assessment via bi-directional rewarping,"** *IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC)*, 51(5): 3053-3067, 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8736027)]
 
 *  Ke Gu, Xin Xu, Junfei Qiao, **Qiuping Jiang**, Weisi Lin, Daniel Thalmann, **"Learning a unified blind image quality metric via on-line and off-line big training instances,"** *IEEE Transactions on Big Data (TBD)*, 6(4): 780-791, Dec. 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8627983)]
 
