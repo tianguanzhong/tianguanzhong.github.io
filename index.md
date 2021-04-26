@@ -49,6 +49,8 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 *  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Ke Gu, Yabin Zhang, Wenjun Zhang, Weisi Lin, **"StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection,"** *IEEE Transactions on Broadcasting (TBC)*, submitted, 2021.
 
+*  **Qiuping Jiang**, Zhengtao Liu, Ke Gu, Feng Shao, Xinfeng Zhang, Hantao Liu, Weisi Lin, **"Towards Evaluating Single Image Super-Resolution Algorithms: A Real-World Dataset, Subjective Studies, and An Objective Metric,"** *IEEE Transactions on Image Processing (TIP)*, submitted, 2021.
+
 *  Zhenyu Peng, **Qiuping Jiang<sup>\*</sup>**, Feng Shao, Wei Gao, **"LGGD: Image retargeting quality assessment by measuring local and global geometric distortions,"** *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, submitted, 2021.
 
 * Sheng Yang, Weisi Lin, Guosheng Lin, **Qiuping Jiang**, Zichuan Liu, **"Progressive Self-Guided Loss for Salient Object Detection,"** *IEEE Transactions on Image Processing (TIP)*, submitted, 2021.
