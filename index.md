@@ -32,6 +32,7 @@ I am currently an Associate Professor at Ningbo University, Ningbo, China. I obt
 I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good mathematics, algorithm or programming background. 2) Must be self-motivated. 3) Work or study in the area of visual perception, image/video signal processing, or multimedia system. If you are interested, please contact via email.
 
 ### Recent News
+*  2021/05/07, One paper (corresponding author) was accepted for publication in ***IEEE Transactions on Industrial Informatics (IF=9.112)***.
 *  2021/03/29, One co-authored paper was accepted for publication in ***IEEE Transactions on Multimedia (IF=6.051)***.
 *  2020/12/05, One paper (corresponding author) was accepted for publication in ***IEEE Transactions on Computational Imaging (IF=4.015)***.
 *  2020/11/23, I was invited to serve as the Area Chair of the ***[IEEE Intrnational Conference on Multimedia & Expo (ICME) 2021](https://2021.ieeeicme.org/)***, which will be held in July 5-9, 2021, Shenzhen, China.
@@ -56,6 +57,8 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 * Sheng Yang, Weisi Lin, Guosheng Lin, **Qiuping Jiang**, Zichuan Liu, **"Progressive Self-Guided Loss for Salient Object Detection,"** *IEEE Transactions on Image Processing (TIP)*, submitted, 2021.
 
 #### In Press
+*  Wei Gao, **Qiuping Jiang<sup>\*</sup>**, Ronggang Wang, Siwei Ma, Ge Li, Sam Kwong, **"Consistent Quality Oriented Rate Control in HEVC via Balancing Intra and Inter Frame Coding,"** *IEEE Transactions on Industrial Informatics (TII)*, accepted, 2021.
+  
 *  Xuejin Wang, Feng Shao, **Qiuping Jiang**, Xiongli Chai, Xiangchao Meng, Yo-Sung Ho, **"List-wise rank learning for stereoscopic image retargeting quality assessment,"** *IEEE Transactions on Multimedia (TMM)*, in press, 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9388879)]
 
 *  Xuejin Wang, Feng Shao, **Qiuping Jiang**, Xiangchao Meng, Yo-Sung Ho, **"Measuring coarse-to-fine texture and geometric distortions for quality assessment of DIBR-synthesized images,"** *IEEE Transactions on Multimedia (TMM)*, in press, 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9091246)]
