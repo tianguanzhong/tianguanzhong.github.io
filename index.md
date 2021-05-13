@@ -32,7 +32,8 @@ I am currently an Associate Professor at Ningbo University, Ningbo, China. I obt
 I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good mathematics, algorithm or programming background. 2) Must be self-motivated. 3) Work or study in the area of visual perception, image/video signal processing, or multimedia system. If you are interested, please contact via email.
 
 ### Recent News
-*  2021/05/07, One paper (corresponding author) was accepted for publication in ***IEEE Transactions on Industrial Informatics (IF=9.112)***.
+*  2021/05/13, One paper (corresponding author) was accepted for publication in ***IEEE Transactions on Multimedia (IF=6.051)***.
+*  2021/05/07, One paper was accepted for publication in ***IEEE Transactions on Industrial Informatics (IF=9.112)***.
 *  2021/03/29, One co-authored paper was accepted for publication in ***IEEE Transactions on Multimedia (IF=6.051)***.
 *  2020/12/05, One paper (corresponding author) was accepted for publication in ***IEEE Transactions on Computational Imaging (IF=4.015)***.
 *  2020/11/23, I was invited to serve as the Area Chair of the ***[IEEE Intrnational Conference on Multimedia & Expo (ICME) 2021](https://2021.ieeeicme.org/)***, which will be held in July 5-9, 2021, Shenzhen, China.
@@ -42,11 +43,7 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 ### Publications
 #### Submitted
-*  Yudong Mao, **Qiuping Jiang<sup>\*</sup>**, Runmin Cong, Wei Gao, Feng Shao, Sam Kwong, **"Cross-modality fusion and progressive integration network for saliency prediction on stereoscopic 3D images,"** *IEEE Transactions on Multimedia (TMM)*, Minor revision, 2020.
-
 * Wei Zhou, Jiahua Xu, **Qiuping Jiang**, Zhibo Chen, **"No-reference quality assessment for 360-degree images by analysis of multi-frequency information and local-global naturalness,"** *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, Minor revision, 2021.
-
-* Xuejin Wang, Feng Shao, **Qiuping Jiang**, Zhenqi Fu, Xiangchao Meng, Ke Gu, Yo-Sung Ho, **"Combining Retargeting Quality and Depth Perception Measures for Quality Evaluation of Retargeted Stereopairs,"** *IEEE Transactions on Multimedia (TMM)*, Major revision, 2021.
 
 *  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Ke Gu, Yabin Zhang, Wenjun Zhang, Weisi Lin, **"StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection,"** *IEEE Transactions on Broadcasting (TBC)*, submitted, 2021.
 
@@ -57,7 +54,11 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 * Sheng Yang, Weisi Lin, Guosheng Lin, **Qiuping Jiang**, Zichuan Liu, **"Progressive Self-Guided Loss for Salient Object Detection,"** *IEEE Transactions on Image Processing (TIP)*, submitted, 2021.
 
 #### In Press
-*  Wei Gao, **Qiuping Jiang<sup>\*</sup>**, Ronggang Wang, Siwei Ma, Ge Li, Sam Kwong, **"Consistent Quality Oriented Rate Control in HEVC via Balancing Intra and Inter Frame Coding,"** *IEEE Transactions on Industrial Informatics (TII)*, accepted, 2021.
+*  Yudong Mao, **Qiuping Jiang<sup>\*</sup>**, Runmin Cong, Wei Gao, Feng Shao, Sam Kwong, **"Cross-modality fusion and progressive integration network for saliency prediction on stereoscopic 3D images,"** *IEEE Transactions on Multimedia (TMM)*, accepted, 2021.
+  
+*  Wei Gao, **Qiuping Jiang**, Ronggang Wang, Siwei Ma, Ge Li, Sam Kwong, **"Consistent Quality Oriented Rate Control in HEVC via Balancing Intra and Inter Frame Coding,"** *IEEE Transactions on Industrial Informatics (TII)*, accepted, 2021.
+
+* Xuejin Wang, Feng Shao, **Qiuping Jiang**, Zhenqi Fu, Xiangchao Meng, Ke Gu, Yo-Sung Ho, **"Combining Retargeting Quality and Depth Perception Measures for Quality Evaluation of Retargeted Stereopairs,"** *IEEE Transactions on Multimedia (TMM)*, accepted, 2021.
   
 *  Xuejin Wang, Feng Shao, **Qiuping Jiang**, Xiongli Chai, Xiangchao Meng, Yo-Sung Ho, **"List-wise rank learning for stereoscopic image retargeting quality assessment,"** *IEEE Transactions on Multimedia (TMM)*, in press, 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9388879)]
 
