@@ -43,20 +43,20 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 ### Publications
 #### Submitted
-* Wei Zhou, Jiahua Xu, **Qiuping Jiang**, Zhibo Chen, **"No-reference quality assessment for 360-degree images by analysis of multi-frequency information and local-global naturalness,"** *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, Minor revision, 2021.
-
 *  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Ke Gu, Yabin Zhang, Wenjun Zhang, Weisi Lin, **"StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection,"** *IEEE Transactions on Broadcasting (TBC)*, submitted, 2021.
 
 *  **Qiuping Jiang**, Zhengtao Liu, Ke Gu, Feng Shao, Xinfeng Zhang, Hantao Liu, Weisi Lin, **"On Evaluating Single Image Super-Resolution Algorithms,"** *IEEE Transactions on Image Processing (TIP)*, submitted, 2021.
 
 *  Zhenyu Peng, **Qiuping Jiang<sup>\*</sup>**, Feng Shao, Wei Gao, **"LGGD: Image retargeting quality assessment by measuring local and global geometric distortions,"** *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, submitted, 2021.
 
-* Sheng Yang, Weisi Lin, Guosheng Lin, **Qiuping Jiang**, Zichuan Liu, **"Progressive Self-Guided Loss for Salient Object Detection,"** *IEEE Transactions on Image Processing (TIP)*, submitted, 2021.
+* Sheng Yang, Weisi Lin, Guosheng Lin, **Qiuping Jiang**, Zichuan Liu, **"Progressive Self-Guided Loss for Salient Object Detection,"** *IEEE Transactions on Image Processing (TIP)*, major revision, 2021.
 
 #### In Press
 *  Yudong Mao, **Qiuping Jiang<sup>\*</sup>**, Runmin Cong, Wei Gao, Feng Shao, Sam Kwong, **"Cross-modality fusion and progressive integration network for saliency prediction on stereoscopic 3D images,"** *IEEE Transactions on Multimedia (TMM)*, accepted, 2021.
   
 *  Wei Gao, **Qiuping Jiang**, Ronggang Wang, Siwei Ma, Ge Li, Sam Kwong, **"Consistent Quality Oriented Rate Control in HEVC via Balancing Intra and Inter Frame Coding,"** *IEEE Transactions on Industrial Informatics (TII)*, accepted, 2021.
+
+* Wei Zhou, Jiahua Xu, **Qiuping Jiang**, Zhibo Chen, **"No-reference quality assessment for 360-degree images by analysis of multi-frequency information and local-global naturalness,"** *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, accepted, 2021.
 
 * Xuejin Wang, Feng Shao, **Qiuping Jiang**, Zhenqi Fu, Xiangchao Meng, Ke Gu, Yo-Sung Ho, **"Combining Retargeting Quality and Depth Perception Measures for Quality Evaluation of Retargeted Stereopairs,"** *IEEE Transactions on Multimedia (TMM)*, accepted, 2021.
   
