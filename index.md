@@ -34,6 +34,7 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 ### Recent News
 *  2021/05/14, One co-authored paper was accepted by ***IEEE Transactions on Circuits and Systems for Video Technology (IF=4.133)***.
 *  2021/05/13, One paper (corresponding author) was accepted by ***IEEE Transactions on Multimedia (IF=6.051)***.
+*  2021/05/13, One co-authored paper was accepted by ***IEEE Transactions on Multimedia (IF=6.051)***.
 *  2021/05/07, One co-authored paper was accepted by ***IEEE Transactions on Industrial Informatics (IF=9.112)***.
 *  2021/03/29, One co-authored paper was accepted by ***IEEE Transactions on Multimedia (IF=6.051)***.
 *  2020/12/05, One paper (corresponding author) was accepted by ***IEEE Transactions on Computational Imaging (IF=4.015)***.
