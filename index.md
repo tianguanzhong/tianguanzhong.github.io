@@ -45,7 +45,7 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 ### Publications
 #### Submitted
-*  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Ke Gu, Yabin Zhang, Wenjun Zhang, Weisi Lin, **"StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection,"** *IEEE Transactions on Broadcasting (TBC)*, submitted, 2021.
+*  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Ke Gu, Yabin Zhang, Wenjun Zhang, Weisi Lin, **"StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection,"** *IEEE Transactions on Broadcasting (TBC)*, major revision, 2021.
 
 *  **Qiuping Jiang**, Zhengtao Liu, Ke Gu, Feng Shao, Xinfeng Zhang, Hantao Liu, Weisi Lin, **"On Evaluating Single Image Super-Resolution Algorithms,"** *IEEE Transactions on Image Processing (TIP)*, submitted, 2021.
 
