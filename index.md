@@ -45,6 +45,8 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 ### Publications
 #### Submitted
+*  Zhenqi Fu, Wu Wang, **Qiuping Jiang**, Yue Huang, Xinghao Ding, **"IPE-Net: A Hierarchical Probabilistic Network for Image Enhancement via Modeling Appearance Ambiguities,"** *IEEE Transactions on Image Processing (TIP)*, submitted, 2021.
+
 *  Chao Huang, Zehua Yang, Jie Wen, Yong Xu, **Qiuping Jiang**, Jian Yang, Yaowei Wang, **"Self-Supervision-Augmented Deep Autoencoder for Unsupervised Visual Anomaly Detection,"** *IEEE Transactions on Cybernetics (TCYB)*, major revision, 2021.
 
 *  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Ke Gu, Yabin Zhang, Wenjun Zhang, Weisi Lin, **"StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection,"** *IEEE Transactions on Broadcasting (TBC)*, major revision, 2021.
