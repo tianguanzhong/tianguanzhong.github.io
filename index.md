@@ -66,7 +66,7 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 *  Feng Shao, Yanjia Fei, **Qiuping Jiang<sup>\*</sup>**, Xiangchao Meng, Yo-Sung Ho, **"Building stereoscopic zoomer via global and local warping optimization,"** *IEEE Transactions on Computational Imaging (TCI)*, 6: 1622-1635, Dec. 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9288920)]
 
-*  **Qiuping Jiang**, Zhenyu Peng, Guanghui Yue, Hong Li, Feng Shao, **"No-reference image contrast evaluation by generating bi-directional pseudo references,"** *IEEE Transactions on Industrial Informatics (TII)*, 17(9): 6062-6072, Sept. 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9247305)]
+*  **Qiuping Jiang**, Zhenyu Peng, Guanghui Yue, Hong Li, Feng Shao, **"No-reference image contrast evaluation by generating bi-directional pseudo references,"** *IEEE Transactions on Industrial Informatics (TII)*, 17(9): 6062-6072, Sept. 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9247305)]
 
 *  **Qiuping Jiang**, Wei Zhou, Xiongli Chai, Guanghui Yue, Feng Shao, Zhibo Chen, **"A full-reference stereoscopic image quality measurement via hierarchical deep feature degradation fusion,"** *IEEE Transactions on Instrumentation and Measurement (TIM)*, 69(12): 9784-9796, Dec. 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9127513)]
 
