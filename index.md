@@ -184,13 +184,15 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
     - National Conference on Image and Graphics (NCIG) 2020
     
 *  **Reviewer**:
-    - IEEE Transactions on Neural Networks and Learning Systems  
-    - IEEE Transactions on Industrial Electronics
-    - IEEE Transactions on Cybernetics
+    - IEEE Transactions on Medical Imaging
     - IEEE Transactions on Image Processing
     - IEEE Transactions on Circuits Systems for Video Technology
     - IEEE Transactions on Multimeida
+    - IEEE Transactions on Cybernetics
+    - IEEE Transactions on Neural Networks and Learning Systems  
+    - IEEE Transactions on Industrial Electronics
     - IEEE Transactions on Broadcasting
+    - IEEE Transactions on Emerging Topics in Computational Intelligence
     - IEEE Internet of Things Journal
     - IEEE Multimeida Magazine
     - IEEE Signal Processing Letters
