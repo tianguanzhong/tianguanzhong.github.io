@@ -50,8 +50,6 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 ### Publications
 #### Submitted
-*  Zhengtao Liu, **Qiuping Jiang<sup>\*</sup>**, Feng Shao, Jinjian Wu, Weisi Lin, **"AOM: An All-in-One Model for Just Noticeable Difference Estimation of Natural Images,"** *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, submitted, 2021.
-
 *  **Qiuping Jiang**, Yudong Mao, Runmin Cong, Wenqi Ren, Chao Huang, Feng Shao, **"Unsupervised Decomposition and Correction Network for Low-light Image Enhancement,"** *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, submitted, 2021.
 
 *  Zhenqi Fu, Wu Wang, **Qiuping Jiang**, Yue Huang, Xinghao Ding, **"IPE-Net: A Hierarchical Probabilistic Network for Image Enhancement via Modeling Appearance Ambiguities,"** *IEEE Transactions on Image Processing (TIP)*, submitted, 2021.
