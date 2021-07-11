@@ -54,15 +54,15 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 *  Zhenqi Fu, Wu Wang, **Qiuping Jiang**, Yue Huang, Xinghao Ding, **"IPE-Net: A Hierarchical Probabilistic Network for Image Enhancement via Modeling Appearance Ambiguities,"** *IEEE Transactions on Image Processing (TIP)*, submitted, 2021.
 
-*  Chao Huang, Zehua Yang, Jie Wen, Yong Xu, **Qiuping Jiang**, Jian Yang, Yaowei Wang, **"Self-Supervision-Augmented Deep Autoencoder for Unsupervised Visual Anomaly Detection,"** *IEEE Transactions on Cybernetics (TCYB)*, major revision, 2021.
+*  Chao Huang, Zehua Yang, Jie Wen, Yong Xu, **Qiuping Jiang**, Jian Yang, Yaowei Wang, **"Self-Supervision-Augmented Deep Autoencoder for Unsupervised Visual Anomaly Detection,"** *IEEE Transactions on Cybernetics (TCYB)*, revision, 2021.
 
-*  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Ke Gu, Yabin Zhang, Wenjun Zhang, Weisi Lin, **"StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection,"** *IEEE Transactions on Broadcasting (TBC)*, major revision, 2021.
+*  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Ke Gu, Yabin Zhang, Wenjun Zhang, Weisi Lin, **"StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection,"** *IEEE Transactions on Broadcasting (TBC)*, revision, 2021.
 
 *  **Qiuping Jiang**, Zhengtao Liu, Ke Gu, Feng Shao, Xinfeng Zhang, Hantao Liu, Weisi Lin, **"On Evaluating Single Image Super-Resolution Algorithms,"** *IEEE Transactions on Image Processing (TIP)*, submitted, 2021.
 
 *  Zhenyu Peng, **Qiuping Jiang<sup>\*</sup>**, Feng Shao, Wei Gao, **"LGGD: Image retargeting quality assessment by measuring local and global geometric distortions,"** *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, submitted, 2021.
 
-* Sheng Yang, Weisi Lin, Guosheng Lin, **Qiuping Jiang**, Zichuan Liu, **"Progressive Self-Guided Loss for Salient Object Detection,"** *IEEE Transactions on Image Processing (TIP)*, major revision, 2021.
+* Sheng Yang, Weisi Lin, Guosheng Lin, **Qiuping Jiang**, Zichuan Liu, **"Progressive Self-Guided Loss for Salient Object Detection,"** *IEEE Transactions on Image Processing (TIP)*, revision, 2021.
 
 #### IEEE Transactions
 *  Yudong Mao, **Qiuping Jiang<sup>\*</sup>**, Runmin Cong, Wei Gao, Feng Shao, Sam Kwong, **"Cross-modality fusion and progressive integration network for saliency prediction on stereoscopic 3D images,"** *IEEE Transactions on Multimedia (TMM)*, accepted, 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9435962)]
@@ -180,6 +180,7 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
      
 *  **Technical Program Committee Member**:
     - International Joint Conference on Artificial Intelligence (IJCAI) 2021
+    - ACM Multimedia (ACM MM) 2021
     - IEEE International Conference on Multimedia & Expo (ICME) 2020、2021
     - IEEE International Conference on Image Processing (ICIP) 2018、2019
     - IEEE Visual Communiaction and Image Processing (VCIP) 2017-2020
