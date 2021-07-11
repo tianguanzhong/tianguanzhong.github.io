@@ -32,16 +32,17 @@ I am currently an Associate Professor at Ningbo University, Ningbo, China. I obt
 I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good mathematics, algorithm or programming background. 2) Must be self-motivated. 3) Work or study in the area of visual perception, image/video signal processing, or multimedia system. If you are interested, please contact via email.
 
 ### Recent News
-*  2021/05/14, One co-authored paper was accepted by ***IEEE Transactions on Circuits and Systems for Video Technology (IF=4.133)***.
-*  2021/05/13, One paper (corresponding author) was accepted by ***IEEE Transactions on Multimedia (IF=6.051)***.
-*  2021/05/13, One co-authored paper was accepted by ***IEEE Transactions on Multimedia (IF=6.051)***.
-*  2021/05/07, One co-authored paper was accepted by ***IEEE Transactions on Industrial Informatics (IF=9.112)***.
-*  2021/03/29, One co-authored paper was accepted by ***IEEE Transactions on Multimedia (IF=6.051)***.
-*  2020/12/05, One paper (corresponding author) was accepted by ***IEEE Transactions on Computational Imaging (IF=4.015)***.
+*  2021/07/11, One paper (corresponding author) was accepted by ***IEEE Signal Processing Letters (IF=3.109)***.
+*  2021/05/14, One co-authored paper was accepted by ***IEEE Transactions on Circuits and Systems for Video Technology (IF=4.685)***.
+*  2021/05/13, One paper (corresponding author) was accepted by ***IEEE Transactions on Multimedia (IF=6.513)***.
+*  2021/05/13, One co-authored paper was accepted by ***IEEE Transactions on Multimedia (IF=6.513)***.
+*  2021/05/07, One co-authored paper was accepted by ***IEEE Transactions on Industrial Informatics (IF=10.215)***.
+*  2021/03/29, One co-authored paper was accepted by ***IEEE Transactions on Multimedia (IF=6.513)***.
+*  2020/12/05, One paper (corresponding author) was accepted by ***IEEE Transactions on Computational Imaging (IF=3.490)***.
 *  2020/11/23, I was invited to serve as the Area Chair of the ***[IEEE Intrnational Conference on Multimedia & Expo (ICME) 2021](https://2021.ieeeicme.org/)***, which will be held in July 5-9, 2021, Shenzhen, China.
 *  2020/10/31, I was invited to serve as the Technical Program Committee Member of the ***[the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)](https://ijcai-21.org/)***, which will be held in Aug. 2021, Montreal, Canada.
-*  2020/10/22, One co-authored paper was accepted by ***IEEE Transactions on Image Processing (CCF-A, IF=9.340)***, Congratulations to Chao Huang.
-*  2020/10/27, One paper was accepted by ***IEEE Transactions on Industrial Informatics (IF=9.112)***.
+*  2020/10/22, One co-authored paper was accepted by ***IEEE Transactions on Image Processing (CCF-A, IF=10.856)***.
+*  2020/10/27, One paper was accepted by ***IEEE Transactions on Industrial Informatics (IF=10.215)***.
 
 ### Publications
 #### Submitted
