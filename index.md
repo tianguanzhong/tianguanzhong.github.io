@@ -36,7 +36,6 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 </p>
 
 ### Recent News
-<p style="text-align:justify; text-justify:inter-ideograph;">
 *  2021/07/11, One paper (corresponding author) was accepted by ***IEEE Signal Processing Letters (IF=3.109)***.
 *  2021/05/14, One co-authored paper was accepted by ***IEEE Transactions on Circuits and Systems for Video Technology (IF=4.685)***.
 *  2021/05/13, One paper (corresponding author) was accepted by ***IEEE Transactions on Multimedia (IF=6.513)***.
@@ -48,7 +47,6 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 *  2020/10/31, I was invited to serve as the Technical Program Committee Member of the ***[the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)](https://ijcai-21.org/)***, which will be held in Aug. 2021, Montreal, Canada.
 *  2020/10/22, One co-authored paper was accepted by ***IEEE Transactions on Image Processing (CCF-A, IF=10.856)***.
 *  2020/10/27, One paper was accepted by ***IEEE Transactions on Industrial Informatics (IF=10.215)***.
-</p>
 
 ### Publications
 #### Submitted
