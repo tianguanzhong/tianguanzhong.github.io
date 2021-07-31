@@ -134,6 +134,9 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 *  **Qiuping Jiang**, Feng Shao, Gangyi Jiang, Mei Yu, Zongju Peng, **"Three-dimensional visual comfort assessment via preference learning,"** *Journal of Electronic Imaging (JEI)*, 24(4): 043002, Jul. 2015. [[SPIE Digital Library](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-24/issue-4/043002/Three-dimensional-visual-comfort-assessment-via-preference-learning/10.1117/1.JEI.24.4.043002.short?SSO=1)]
 
+*  Junkang Hu, **Qiuping Jiang**, Runmin Cong, Wei Gao, Feng Shao, **"Two-branch deep neural network for underwater
+image enhancement in HSV color space,"** *IEEE Signal Processing Letters (SPL)*, in press, 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9496260)]
+
 *  Guanghui Yue, Chunping Hou, **Qiuping Jiang<sup>\*</sup>**, Yang Yang, **"Blind stereoscopic 3D image quality assessment via analysis of naturalness, structure, and binocular asymmetry,"** *Signal Processing (SP)*, 150: 204-214, Sep. 2018. [[ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0165168418301452)]
 
 *  Yongqiang Bai, Mei Yu<sup>\*</sup>, **Qiuping Jiang<sup>\*</sup>**, Gangyi Jiang, Zhongjie Zhu, **"Learning content-specific codebooks for blind quality assessment of screen content images,"** *Signal Processing (SP)*, 161: 248-258, Aug. 2019. [[ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0165168419301008)]
