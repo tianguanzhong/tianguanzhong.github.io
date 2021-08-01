@@ -66,11 +66,9 @@ I am currently recruiting both Ph.D./Graduate/Undergraduate students. Requiremen
 
 #### Journals
 #### 2021
-*  **Qiuping Jiang**, Zhenyu Peng, Guanghui Yue, Hong Li, Feng Shao, **"No-reference image contrast evaluation by generating bi-directional pseudo references,"** *IEEE Transactions on Industrial Informatics (TII)*, 17(9): 6062-6072, Sept. 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9247305)]
+*  <div style="text-align:justify;text-justify:inter-ideograph"><b>Qiuping Jiang</b>, Zhenyu Peng, Guanghui Yue, Hong Li, Feng Shao, <b>"No-reference image contrast evaluation by generating bi-directional pseudo references,"</b> <i>IEEE Transactions on Industrial Informatics (TII)</i>, 17(9): 6062-6072, Sept. 2021. <a href="https://ieeexplore.ieee.org/document/9247305">[IEEE Xplore] </a> </div> <br>
 
-*  <div style="text-align:justify;text-justify:inter-ideograph"><b>Qiuping Jiang</b>, Zhenyu Peng, Guanghui Yue, Hong Li, Feng Shao, <b>"No-reference image contrast evaluation by generating bi-directional pseudo references,"</b> <i>IEEE Transactions on Industrial Informatics (TII)</i>, 17(9): 6062-6072, Sept. 2021. <a href="https://ieeexplore.ieee.org/document/9247305">[IEEE Xplore] </a> </div>
-
-*  Yudong Mao, **Qiuping Jiang<sup>\*</sup>**, Runmin Cong, Wei Gao, Feng Shao, Sam Kwong, **"Cross-modality fusion and progressive integration network for saliency prediction on stereoscopic 3D images,"** *IEEE Transactions on Multimedia (TMM)*, accepted, 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9435962)]
+*  <div style="text-align:justify;text-justify:inter-ideograph">Yudong Mao, <b>Qiuping Jiang<sup>\*</sup></b>, Runmin Cong, Wei Gao, Feng Shao, Sam Kwong, <b>"Cross-modality fusion and progressive integration network for saliency prediction on stereoscopic 3D images,"</b> <i>IEEE Transactions on Multimedia (TMM)</i>, accepted, 2021. <a href="https://ieeexplore.ieee.org/document/9435962">[IEEE Xplore] </a> </div> <br>
 
 *  Xuejin Wang<sup>\#</sup>, **Qiuping Jiang<sup>\#</sup>**, Feng Shao, Ke Gu, Guangtao Zhai, Xiaokang Yang, **"Exploiting local degradation characteristics and global statistical properties for blind assessment of tone-mapped HDR images,"** *IEEE Transactions on Multimedia (TMM)*, 23: 692-705, 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9064671)]
 
