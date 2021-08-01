@@ -161,7 +161,7 @@ image enhancement in HSV color space,"** *IEEE Signal Processing Letters (SPL)*,
 
 *  Feng Shao, Libo Shen, **Qiuping Jiang**, Randi Fu, Gangyi Jiang, **"StereoEditor: Controllable stereoscopic display by content retargeting,"** *Optics Express (OE)*, 25(26): 33202-33215, Dec. 2017. [[OSA Publishing](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-25-26-33202)]
 
-### Conferences
+#### Conferences
 *  Guibiao Liao, Wei Gao, **Qiuping Jiang**, Ronggang Wang, Ge Li, **"MMNet: Multi-Stage and Multi-Scale Fusion Network for RGB-D Salient Object Detection,"** in Proc. of *the ACM International Conference on Multimedia (ACM-MM)*, Seattle, WA, USA, Oct. 2020. [[ACM Digital Library](https://dl.acm.org/doi/10.1145/3394171.3413523)]
 
 *  Sheng Yang, **Qiuping Jiang**, Weisi Lin, Yongtao Wang, **"SGDNet: An end-to-end saliency-guided deep neural network for no-reference image quality assessment,"** in Proc. of *the ACM International Conference on Multimedia (ACM-MM)*, Nice, France, Oct. 2019. [[ACM Digital Library](https://dl.acm.org/doi/10.1145/3343031.3350990)]
