@@ -50,19 +50,13 @@ I am currently recruiting both Ph.D./Graduate/Undergraduate students. Requiremen
 
 ### Publications
 #### Submitted
-*  **Qiuping Jiang**, Yudong Mao, Runmin Cong, Wenqi Ren, Chao Huang, Feng Shao, **"Unsupervised Decomposition and Correction Network for Low-light Image Enhancement,"** *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, submitted, 2021.
-
-*  Zhenqi Fu, Wu Wang, **Qiuping Jiang**, Yue Huang, Xinghao Ding, **"IPE-Net: A Hierarchical Probabilistic Network for Image Enhancement via Modeling Appearance Ambiguities,"** *IEEE Transactions on Image Processing (TIP)*, submitted, 2021.
-
-*  Chao Huang, Zehua Yang, Jie Wen, Yong Xu, **Qiuping Jiang**, Jian Yang, Yaowei Wang, **"Self-Supervision-Augmented Deep Autoencoder for Unsupervised Visual Anomaly Detection,"** *IEEE Transactions on Cybernetics (TCYB)*, revision, 2021.
-
-*  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Ke Gu, Yabin Zhang, Wenjun Zhang, Weisi Lin, **"StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection,"** *IEEE Transactions on Broadcasting (TBC)*, revision, 2021.
-
-*  **Qiuping Jiang**, Zhengtao Liu, Ke Gu, Feng Shao, Xinfeng Zhang, Hantao Liu, Weisi Lin, **"On Evaluating Single Image Super-Resolution Algorithms,"** *IEEE Transactions on Image Processing (TIP)*, submitted, 2021.
-
-*  Zhenyu Peng, **Qiuping Jiang<sup>\*</sup>**, Feng Shao, Wei Gao, **"LGGD: Image retargeting quality assessment by measuring local and global geometric distortions,"** *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, submitted, 2021.
-
-* Sheng Yang, Weisi Lin, Guosheng Lin, **Qiuping Jiang**, Zichuan Liu, **"Progressive Self-Guided Loss for Salient Object Detection,"** *IEEE Transactions on Image Processing (TIP)*, revision, 2021.
+<div style="text-align:justify;text-justify:inter-ideograph"><ol><li style="margin-bottom: 15px"><b>Qiuping Jiang</b>, Yudong Mao, Runmin Cong, Wenqi Ren, Chao Huang, Feng Shao, <b>"Unsupervised Decomposition and Correction Network for Low-light Image Enhancement,"</b> <i>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</i>, submitted, 2021. </li>
+<li style="margin-bottom: 15px">Zhenqi Fu, Wu Wang, <b>Qiuping Jiang</b>, Yue Huang, Xinghao Ding, <b>"IPE-Net: A Hierarchical Probabilistic Network for Image Enhancement via Modeling Appearance Ambiguities,"</b> <i>IEEE Transactions on Image Processing (TIP)</i>, submitted, 2021. </li>
+<li style="margin-bottom: 15px">Chao Huang, Zehua Yang, Jie Wen, Yong Xu, <b>Qiuping Jiang</b>, Jian Yang, Yaowei Wang, <b>"Self-Supervision-Augmented Deep Autoencoder for Unsupervised Visual Anomaly Detection,"</b> <i>IEEE Transactions on Cybernetics (TCYB)</i>, revision, 2021. </li>
+<li style="margin-bottom: 15px"><b>Qiuping Jiang</b>, Zhenyu Peng, Feng Shao, Ke Gu, Yabin Zhang, Wenjun Zhang, Weisi Lin, <b>"StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection,"</b> <i>IEEE Transactions on Broadcasting (TBC)</i>, revision, 2021. </li>
+<li style="margin-bottom: 15px"><b>Qiuping Jiang</b>, Zhengtao Liu, Ke Gu, Feng Shao, Xinfeng Zhang, Hantao Liu, Weisi Lin, <b>"On Evaluating Single Image Super-Resolution Algorithms,"</b> <i>IEEE Transactions on Image Processing (TIP)</i>, submitted, 2021. </li>
+<li style="margin-bottom: 15px">Zhenyu Peng, <b>Qiuping Jiang<sup>*</sup></b>, Feng Shao, Wei Gao, <b>"LGGD: Image retargeting quality assessment by measuring local and global geometric distortions,"</b> <i>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</i>, submitted, 2021. </li>
+<li style="margin-bottom: 15px">Sheng Yang, Weisi Lin, Guosheng Lin, <b>Qiuping Jiang</b>, Zichuan Liu, <b>"Progressive Self-Guided Loss for Salient Object Detection,"</b> <i>IEEE Transactions on Image Processing (TIP)</i>, revision, 2021. </li> </ol> </div>
 
 #### Journals
 #### 2021
