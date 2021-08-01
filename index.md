@@ -25,17 +25,17 @@
   </tr></tbody>
 </table>
 
-### Short Biography
+<h3>Short Biography</h3>
 <p style="text-align:justify; text-justify:inter-ideograph;">
 I am currently an Associate Professor at Ningbo University, Ningbo, China. I obtained my Ph.D. degree in Signal and Information Processing from Ningbo University in June 2018. From Jan. 2017 to May 2018, I was a visiting Ph.D. student at Nanyang Technological University, Singapore.
 </p>
 
-### Student Recruitment
+<h3>Student Recruitment</h3>
 <p style="text-align:justify; text-justify:inter-ideograph;">
 I am currently recruiting both Ph.D./Graduate/Undergraduate students. Requirements: 1) B.Sc. or Master degree in Computer Science or Electronic Engineering, in particular those with good mathematics, algorithm or programming background. 2) Must be self-motivated. 3) Work or study in the area of visual perception, image/video signal processing, or multimedia system. If you are interested, fell free to contact me via email.
 </p>
 
-### Recent News
+<h3>Recent News</h3>
 *  2021/07/11, One paper (corresponding author) was accepted by ***IEEE Signal Processing Letters (IF=3.109)***.
 *  2021/05/14, One co-authored paper was accepted by ***IEEE Transactions on Circuits and Systems for Video Technology (IF=4.685)***.
 *  2021/05/13, One paper (corresponding author) was accepted by ***IEEE Transactions on Multimedia (IF=6.513)***.
@@ -48,8 +48,8 @@ I am currently recruiting both Ph.D./Graduate/Undergraduate students. Requiremen
 *  2020/10/22, One co-authored paper was accepted by ***IEEE Transactions on Image Processing (CCF-A, IF=10.856)***.
 *  2020/10/27, One paper was accepted by ***IEEE Transactions on Industrial Informatics (IF=10.215)***.
 
-### Publications
-#### Submitted
+<h3>Publications</h3>
+<h4>Submitted</h4>
 <div style="text-align:justify;text-justify:inter-ideograph"><ol><li style="margin-bottom: 15px"><b>Qiuping Jiang</b>, Yudong Mao, Runmin Cong, Wenqi Ren, Chao Huang, Feng Shao, <b>"Unsupervised Decomposition and Correction Network for Low-light Image Enhancement,"</b> <i>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</i>, submitted, 2021. </li>
 <li style="margin-bottom: 15px">Zhenqi Fu, Wu Wang, <b>Qiuping Jiang</b>, Yue Huang, Xinghao Ding, <b>"IPE-Net: A Hierarchical Probabilistic Network for Image Enhancement via Modeling Appearance Ambiguities,"</b> <i>IEEE Transactions on Image Processing (TIP)</i>, submitted, 2021. </li>
 <li style="margin-bottom: 15px">Chao Huang, Zehua Yang, Jie Wen, Yong Xu, <b>Qiuping Jiang</b>, Jian Yang, Yaowei Wang, <b>"Self-Supervision-Augmented Deep Autoencoder for Unsupervised Visual Anomaly Detection,"</b> <i>IEEE Transactions on Cybernetics (TCYB)</i>, revision, 2021. </li>
@@ -58,8 +58,8 @@ I am currently recruiting both Ph.D./Graduate/Undergraduate students. Requiremen
 <li style="margin-bottom: 15px">Zhenyu Peng, <b>Qiuping Jiang<sup>*</sup></b>, Feng Shao, Wei Gao, <b>"LGGD: Image retargeting quality assessment by measuring local and global geometric distortions,"</b> <i>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</i>, submitted, 2021. </li>
 <li style="margin-bottom: 15px">Sheng Yang, Weisi Lin, Guosheng Lin, <b>Qiuping Jiang</b>, Zichuan Liu, <b>"Progressive Self-Guided Loss for Salient Object Detection,"</b> <i>IEEE Transactions on Image Processing (TIP)</i>, revision, 2021. </li> </ol> </div>
 
-#### Journals
-#### 2021
+<h4>Journals</h4>
+<h4>2021</h4>
 <div style="text-align:justify;text-justify:inter-ideograph"><ol><li style="margin-bottom: 15px"><b>Qiuping Jiang</b>, Zhenyu Peng, Guanghui Yue, Hong Li, Feng Shao, <b>"No-reference image contrast evaluation by generating bi-directional pseudo references,"</b> <i>IEEE Transactions on Industrial Informatics (TII)</i>, 17(9): 6062-6072, Sept. 2021. <a href="https://ieeexplore.ieee.org/document/9247305">[IEEE Xplore] </a> </li>
 <li style="margin-bottom: 15px">Yudong Mao, <b>Qiuping Jiang<sup>*</sup></b>, Runmin Cong, Wei Gao, Feng Shao, Sam Kwong, <b>"Cross-modality fusion and progressive integration network for saliency prediction on stereoscopic 3D images,"</b> <i>IEEE Transactions on Multimedia (TMM)</i>, accepted, 2021. <a href="https://ieeexplore.ieee.org/document/9435962">[IEEE Xplore] </a> </li>
 <li style="margin-bottom: 15px">Xuejin Wang<sup>#</sup>, <b>Qiuping Jiang<sup>#</sup></b>, Feng Shao, Ke Gu, Guangtao Zhai, Xiaokang Yang, <b>"Exploiting local degradation characteristics and global statistical properties for blind assessment of tone-mapped HDR images,"</b> <i>IEEE Transactions on Multimedia (TMM)</i>, 23: 692-705, 2021. <a href="https://ieeexplore.ieee.org/document/906467">[IEEE Xplore] </a> </li>
@@ -72,7 +72,7 @@ I am currently recruiting both Ph.D./Graduate/Undergraduate students. Requiremen
 <li style="margin-bottom: 15px">Xuejin Wang, Feng Shao, <b>Qiuping Jiang</b>, Zhenqi Fu, Xiangchao Meng, Ke Gu, Yo-Sung Ho, <b>"Combining Retargeting Quality and Depth Perception Measures for Quality Evaluation of Retargeted Stereopairs,"</b> <i>IEEE Transactions on Multimedia (TMM)</i>, accepted, 2021. <a href="https://ieeexplore.ieee.org/document/9435954">[IEEE Xplore] </a> </li>
 <li style="margin-bottom: 15px">Xuejin Wang, Feng Shao, <b>Qiuping Jiang</b>, Xiongli Chai, Xiangchao Meng, Yo-Sung Ho, <b>"List-wise rank learning for stereoscopic image retargeting quality assessment,"</b> <i>IEEE Transactions on Multimedia (TMM)</i>, in press, 2021. <a href="https://ieeexplore.ieee.org/document/9388879">[IEEE Xplore] </a> </li> </ol> </div>
 
-#### 2020
+<h4>2020</h4>
 <div style="text-align:justify;text-justify:inter-ideograph"><ol><li style="margin-bottom: 15px"><b>Qiuping Jiang</b>, Wei Zhou, Xiongli Chai, Guanghui Yue, Feng Shao, Zhibo Chen, <b>"A full-reference stereoscopic image quality measurement via hierarchical deep feature degradation fusion,"</b> <i>IEEE Transactions on Instrumentation and Measurement (TIM)</i>, 69(12): 9784-9796, Dec. 2020. <a href="https://ieeexplore.ieee.org/document/9127513">[IEEE Xplore] </a> </li>
 <li style="margin-bottom: 15px"><b>Qiuping Jiang</b>, Wei Gao, Shiqi Wang, Guanghui Yue, Feng Shao, Yo-Sung Ho, Sam Kwong, <b>"Blind image quality measurement by exploiting high order statistics with deep dictionary encoding network,"</b> <i>IEEE Transactions on Instrumentation and Measurement (TIM)</i>, 69(10): 7398-7410, Oct. 2020. <a href="https://ieeexplore.ieee.org/document/9055066">[IEEE Xplore] </a> </li>
 <li style="margin-bottom: 15px">Feng Shao, Yanjia Fei, <b>Qiuping Jiang<sup>*</sup></b>, Xiangchao Meng, Yo-Sung Ho, <b>"Building stereoscopic zoomer via global and local warping optimization,"</b> <i>IEEE Transactions on Computational Imaging (TCI)</i>, 6: 1622-1635, Dec. 2020. <a href="https://ieeexplore.ieee.org/document/9288920">[IEEE Xplore] </a> </li>
@@ -87,7 +87,7 @@ I am currently recruiting both Ph.D./Graduate/Undergraduate students. Requiremen
 <li style="margin-bottom: 15px">Jinbin Hu, Xuejin Wang, Feng Shao, <b>Qiuping Jiang</b>, <b>"TSPR: Deep network-based blind image quality assessment using two-side pseudo reference images,"</b> <i>Digital Signal Processing</i>, 106: 102849, 2020. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1051200420301949">[ScienceDirect] </a> </li>
 <li style="margin-bottom: 15px">Yiming Xiong, Feng Shao, Xiangchao Meng, <b>Qiuping Jiang</b>, Weiwei Sun, Randi Fu, Yo-Sung Ho, <b>"A large-scale remote sensing database for subjective and objective quality assessment of pansharpened images,"</b> <i>Journal of Visual Communication and Image Representation</i>, 73: 102947, 2020. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1047320320301760">[ScienceDirect] </a> </li> </ol> </div>
 
-#### 2019
+<h4>2019</h4>
 <div style="text-align:justify;text-justify:inter-ideograph"><ol><li style="margin-bottom: 15px"><b>Qiuping Jiang</b>, Feng Shao, Wei Gao, Zhuo Chen, Gangyi Jiang, Yo-Sung Ho, <b>"Unified no-reference quality assessment of singly and multiply distorted stereoscopic images,"</b> <i>IEEE Transactions on Image Processing (TIP)</i>, 28(4): 1866-1881, Apr. 2019. <a href="https://ieeexplore.ieee.org/document/8540445">[IEEE Xplore] </a> </li>
 <li style="margin-bottom: 15px"><b>Qiuping Jiang</b>, Feng Shao, Weisi Lin, Gangyi Jiang, <b>"BLIQUE-TMI: Blind quality evaluator for tone-mapped images based on local and global feature analyses,"</b> <i>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</i>, 29(2): 323-335, Feb. 2019. <a href="https://ieeexplore.ieee.org/document/8214257">[IEEE Xplore] </a> </li>
 <li style="margin-bottom: 15px"><b>Qiuping Jiang</b>, Feng Shao, Wei Gao, Hong Li, Yo-Sung Ho, <b>"A risk-aware pairwise rank learning approach for visual discomfort prediction of stereoscopic 3D,"</b> <i>IEEE Signal Processing Letters (SPL)</i>, 26(11): 1588-1592, Nov. 2019. <a href="https://ieeexplore.ieee.org/document/8832170">[IEEE Xplore] </a> </li> 
@@ -95,7 +95,7 @@ I am currently recruiting both Ph.D./Graduate/Undergraduate students. Requiremen
 <li style="margin-bottom: 15px">Yongqiang Bai, Mei Yu<sup>*</sup>, <b>Qiuping Jiang<sup>*</sup></b>, Gangyi Jiang, Zhongjie Zhu, <b>"Learning content-specific codebooks for blind quality assessment of screen content images,"</b> <i>Signal Processing (SP)</i>, 161: 248-258, Aug. 2019. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168419301008">[ScienceDirect] </a> </li>
 <li style="margin-bottom: 15px">Wujie Zhou, Sijia Lv, <b>Qiuping Jiang</b>, Lu Yu, <b>"Deep road scene understanding,"</b> <i>IEEE Signal Processing Letters (SPL)</i>, 26(4): 587-591, Apr. 2019. <a href="https://ieeexplore.ieee.org/document/8630577">[IEEE Xplore] </a> </li> </ol> </div>
 
-#### 2018
+<h4>2018</h4>
 <div style="text-align:justify;text-justify:inter-ideograph"><ol><li style="margin-bottom: 15px"><b>Qiuping Jiang</b>, Feng Shao, Weisi Lin, Gangyi Jiang, <b>"Learning sparse representation for objective image retargeting quality assessment,"</b> <i>IEEE Transactions on Cybernetics (TCYB)</i>, 48(4): 1276-1289, Apr. 2018. <a href="https://ieeexplore.ieee.org/document/7898810">[IEEE Xplore] </a> </li>
 <li style="margin-bottom: 15px"><b>Qiuping Jiang</b>, Feng Shao, Weisi Lin, Ke Gu, Gangyi Jiang, Huifang Sun, <b>"Optimizing multistage discriminative dictionaries for blind image quality assessment,"</b> <i>IEEE Transactions on Multimedia (TMM)</i>, 20(8): 2035-2048, Aug. 2018. <a href="https://ieeexplore.ieee.org/document/8068275">[IEEE Xplore] </a> </li> 
 <li style="margin-bottom: 15px"><b>Qiuping Jiang</b>, Feng Shao, Weisi Lin, Gangyi Jiang, <b>"Learning a referenceless stereopair quality engine with deep non-negativity constrained sparse auto-encoder,"</b> <i>Pattern Recognition (PR)</i>, 76: 242-255, Apr. 2018. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320317304582">[ScienceDirect] </a> </li>
@@ -105,7 +105,7 @@ I am currently recruiting both Ph.D./Graduate/Undergraduate students. Requiremen
 <li style="margin-bottom: 15px">Wei Gao, Sam Kwong, <b>Qiuping Jiang</b>, Chi-Keung Fong, Peter H. W. Wong, Wilson Y. F. Yuen, <b>"Data-Driven rate control for rate distortion optimization in HEVC based on simplified effective initial QP learning,"</b> <i>IEEE Transactions on Broadcasting (TBC)</i>, 65(1): 94-108, Mar. 2018. <a href="https://ieeexplore.ieee.org/document/8456843/">[IEEE Xplore] </a> </li>
 <li style="margin-bottom: 15px">Fucui Li, Feng Shao, <b>Qiuping Jiang</b>, Randi Fu, Gangyi Jiang, Mei Yu, <b>"Local and global sparse representation for no-reference quality assessment of stereoscopic images,"</b> <i>Information Sciences (INS)</i>, 422: 110-121, Jan. 2018. <a href="https://www.sciencedirect.com/science/article/pii/S0020025516312749">[ScienceDirect] </a> </li> </ol> </div>
 
-#### 2017 and before
+<h4>2017 and before</h4>
 <div style="text-align:justify;text-justify:inter-ideograph"><ol><li style="margin-bottom: 15px"><b>Qiuping Jiang</b>, Feng Shao, Gangyi Jiang, Mei Yu, Zongju Peng, <b>"Visual comfort assessment for stereoscopic images based on sparse coding with multi-scale dictionaries,"</b> <i>Neurocomputing (NC)</i>, 252: 77-86, Aug. 2017. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231217306616">[ScienceDirect] </a> </li>
 <li style="margin-bottom: 15px"><b>Qiuping Jiang</b>, Feng Shao, Weisi Lin, Gangyi Jiang, <b>"On predicting visual comfort of stereoscopic images: A learning to rank based approach,"</b> <i>IEEE Signal Processing Letters (SPL)</i>, 23(2): 302-306, Feb. 2016. <a href="https://ieeexplore.ieee.org/document/7378462">[IEEE Xplore] </a> </li> 
 <li style="margin-bottom: 15px"><b>Qiuping Jiang</b>, Feng Shao, Gangyi Jiang, Mei Yu, Zongju Peng, <b>*"Supervised dictionary learning for blind image quality assessment using quality-constraint sparse coding,"</b> <i>Journal of Visual Communication and Image Representation (JVCI)</i>, 33: 123-133, Nov. 2015. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1047320315001789">[ScienceDirect] </a> </li>
@@ -116,14 +116,14 @@ I am currently recruiting both Ph.D./Graduate/Undergraduate students. Requiremen
 <li style="margin-bottom: 15px">Feng Shao, <b>Qiuping Jiang</b>, Randi Fu, Mei Yu, Gangyi Jiang, <b>"Optimizing visual comfort for stereoscopic 3D display based on color-plus-depth signals,"</b> <i>Optics Express (OE)</i>, 24(11): 11640-11653, May 2016. <a href="https://www.osapublishing.org/oe/abstract.cfm?uri=oe-24-11-11640">[OSA Publishing] </a> </li>
 <li style="margin-bottom: 15px">Feng Shao, Libo Shen, <b>Qiuping Jiang</b>, Randi Fu, Gangyi Jiang, <b>"StereoEditor: Controllable stereoscopic display by content retargeting,"</b> <i>Optics Express (OE)</i>, 25(26): 33202-33215, Dec. 2017. <a href="https://www.osapublishing.org/oe/abstract.cfm?uri=oe-25-26-33202">[OSA Publishing] </a> </li> </ol> </div>
 
-#### Conferences
+<h4>Conferences</h4>
 <div style="text-align:justify;text-justify:inter-ideograph"><ol><li style="margin-bottom: 15px">Guibiao Liao, Wei Gao, <b>Qiuping Jiang</b>, Ronggang Wang, Ge Li, <b>"MMNet: Multi-Stage and Multi-Scale Fusion Network for RGB-D Salient Object Detection,"</b> in Proc. of <i>the ACM International Conference on Multimedia (ACM-MM)<i>, Seattle, WA, USA, Oct. 2020. <a href="https://dl.acm.org/doi/10.1145/3394171.3413523">[ACM Digital Library] </a> </li>
 <li style="margin-bottom: 15px">Sheng Yang, <b>Qiuping Jiang</b>, Weisi Lin, Yongtao Wang, <b>"SGDNet: An end-to-end saliency-guided deep neural network for no-reference image quality assessment,"</b> in Proc. of <i>the ACM International Conference on Multimedia (ACM-MM)</i>, Nice, France, Oct. 2019. <a href="https://dl.acm.org/doi/10.1145/3343031.3350990">[ACM Digital Library] </a> </li>
 <li style="margin-bottom: 15px">Chao Huang, Zongju Peng, Fen Chen, <b>Qiuping Jiang</b>, Xin Cui, Gangyi Jiang, <b>"Encoding complexity control for live video applications: An interpretable machine learning approach,"</b> in Proc. of <i>the IEEE International Conference on Multimedia and Expo (ICME)</i>, Shanghai, China, Jul. 2019. <a href="https://ieeexplore.ieee.org/document/8784831">[IEEE Xplore] </a> </li>
 <li style="margin-bottom: 15px"><b>Qiuping Jiang</b>, Feng Shao, Gangyi Jiang, <b>"MSFE: Blind image quality assessment based on multi-stage feature encoding,"</b> in Proc. of <i>the IEEE International Conference on Image Processing (ICIP)</i>, Beijing, China, Sep. 2017. <a href="https://ieeexplore.ieee.org/document/8296865">[IEEE Xplore] </a> </li>
 <li style="margin-bottom: 15px"><b>Qiuping Jiang</b>, Feng Shao, Gangyi Jiang, Mei Yu, Zongju Peng, <b>"Supervised dictionary learning for blind image quality assessment,"</b> in Proc. of <i>the IEEE International Conference on Visual Communications and Image Processing (VCIP)</i>, Singapore, Dec. 2015. <a href="https://ieeexplore.ieee.org/document/7457897/">[IEEE Xplore] </a> </li> </ol> </div>
 
-### Professional Activities and Services
+<h3>Professional Activities and Services</h3>
 *  **Membership**:
     - IEEE（美国电气电子工程师协会）、CCF（中国计算机学会）、CSIG（中国图象图形学会）
     - CSIG Big Visual Data Technical Committee Member （CSIG视觉大数据专委会委员）
