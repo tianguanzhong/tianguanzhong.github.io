@@ -27,7 +27,7 @@
 
 ### Short Biography
 <p style="text-align:justify; text-justify:inter-ideograph;">
- I am currently an Associate Professor at Ningbo University, Ningbo, China. I obtained my Ph.D. degree in Signal and Information Processing from the School of Information Science and Engineering at Ningbo University in June 2018. From Jan. 2017 to May 2018, I worked with [Prof. Lin Weisi](https://www.ntu.edu.sg/home/wslin/Index.htm) as a visiting Ph.D. student at Multimedia Lab in Nanyang Technological University, Singapore.
+I am currently an Associate Professor at Ningbo University, Ningbo, China. I obtained my Ph.D. degree in Signal and Information Processing from Ningbo University in June 2018. From Jan. 2017 to May 2018, I was a visiting Ph.D. student at Nanyang Technological University, Singapore.
 </p>
 
 ### Student Recruitment
