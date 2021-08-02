@@ -1,4 +1,4 @@
-<table class="cv">
+<table class="cv" align="center">
   <tbody><tr>
     <td>
       <span class="blue_2"><font size="5"><strong>Qiuping Jiang</strong></font></span><br>
