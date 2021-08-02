@@ -36,9 +36,9 @@ I am currently recruiting both Ph.D./Graduate/Undergraduate students. Requiremen
 </p>
 
 <h3>Recent News</h3>
-*  2021/07/11, One paper (corresponding author) was accepted by ***IEEE Signal Processing Letters (IF=3.109)***.
-*  2021/05/14, One co-authored paper was accepted by ***IEEE Transactions on Circuits and Systems for Video Technology (IF=4.685)***.
-*  2021/05/13, One paper (corresponding author) was accepted by ***IEEE Transactions on Multimedia (IF=6.513)***.
+*  <div style="text-align:justify;text-justify:inter-ideograph">2021/07/11, One paper (corresponding author) was accepted by <b><i>IEEE Signal Processing Letters (IF=3.109)</i><b>.</div>
+*  <div style="text-align:justify;text-justify:inter-ideograph">2021/05/14, One co-authored paper was accepted by <b><i>IEEE Transactions on Circuits and Systems for Video Technology (IF=4.685)</i><b>.</div>
+*  <div style="text-align:justify;text-justify:inter-ideograph">2021/05/13, One paper (corresponding author) was accepted by <b><i>IEEE Transactions on Multimedia (IF=6.513)</i><b>.</div>
 *  2021/05/13, One co-authored paper was accepted by ***IEEE Transactions on Multimedia (IF=6.513)***.
 *  2021/05/07, One co-authored paper was accepted by ***IEEE Transactions on Industrial Informatics (IF=10.215)***.
 *  2021/03/29, One co-authored paper was accepted by ***IEEE Transactions on Multimedia (IF=6.513)***.
