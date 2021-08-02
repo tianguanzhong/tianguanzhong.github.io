@@ -36,17 +36,17 @@ I am currently recruiting both Ph.D./Graduate/Undergraduate students. Requiremen
 </p>
 
 <h3>Recent News</h3>
-*  <div style="text-align:justify;text-justify:inter-ideograph">2021/07/11, One paper (corresponding author) was accepted by <b><i>IEEE Signal Processing Letters (IF=3.109) </i> <b>.
-*  <div style="text-align:justify;text-justify:inter-ideograph">2021/05/14, One co-authored paper was accepted by <b><i>IEEE Transactions on Circuits and Systems for Video Technology (IF=4.685) </i> <b>. 
-*  <div style="text-align:justify;text-justify:inter-ideograph">2021/05/13, One paper (corresponding author) was accepted by <b><i>IEEE Transactions on Multimedia (IF=6.513) </i> <b>. 
-*  2021/05/13, One co-authored paper was accepted by ***IEEE Transactions on Multimedia (IF=6.513)***.
-*  2021/05/07, One co-authored paper was accepted by ***IEEE Transactions on Industrial Informatics (IF=10.215)***.
-*  2021/03/29, One co-authored paper was accepted by ***IEEE Transactions on Multimedia (IF=6.513)***.
-*  2020/12/05, One paper (corresponding author) was accepted by ***IEEE Transactions on Computational Imaging (IF=3.490)***.
-*  2020/11/23, I was invited to serve as the Area Chair of the ***[IEEE Intrnational Conference on Multimedia & Expo (ICME) 2021](https://2021.ieeeicme.org/)***, which will be held in July 5-9, 2021, Shenzhen, China.
-*  2020/10/31, I was invited to serve as the Technical Program Committee Member of the ***[the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)](https://ijcai-21.org/)***, which will be held in Aug. 2021, Montreal, Canada.
-*  2020/10/22, One co-authored paper was accepted by ***IEEE Transactions on Image Processing (CCF-A, IF=10.856)***.
-*  2020/10/27, One paper was accepted by ***IEEE Transactions on Industrial Informatics (IF=10.215)***.
+*  <div style="text-align:justify;text-justify:inter-ideograph">2021/07/11, One paper (corresponding author) was accepted by <b><i>IEEE Signal Processing Letters (IF=3.109) </i> </b>.</div>
+*  <div style="text-align:justify;text-justify:inter-ideograph">2021/05/14, One co-authored paper was accepted by <b><i>IEEE Transactions on Circuits and Systems for Video Technology (IF=4.685) </i> </b>. </div>
+*  <div style="text-align:justify;text-justify:inter-ideograph">2021/05/13, One paper (corresponding author) was accepted by <b><i>IEEE Transactions on Multimedia (IF=6.513) </i> </b>. </div>
+*  <div style="text-align:justify;text-justify:inter-ideograph">2021/05/13, One co-authored paper was accepted by <b><i>IEEE Transactions on Multimedia (IF=6.513)</i> </b>. </div>
+*  <div style="text-align:justify;text-justify:inter-ideograph">2021/05/07, One co-authored paper was accepted by <b><i>IEEE Transactions on Industrial Informatics (IF=10.215)</i> </b>.</div>
+*  <div style="text-align:justify;text-justify:inter-ideograph">2021/03/29, One co-authored paper was accepted by <b><i>IEEE Transactions on Multimedia (IF=6.513)</i> </b>. </div>
+*  <div style="text-align:justify;text-justify:inter-ideograph">2020/12/05, One paper (corresponding author) was accepted by <b><i>IEEE Transactions on Computational Imaging (IF=3.490)</i> </b>.</div>
+*  <div style="text-align:justify;text-justify:inter-ideograph">2020/11/23, I was invited to serve as the Area Chair of the <b><i>ICME2021</i> </b>, which will be held in July 5-9, 2021, Shenzhen, China.</div>
+*  <div style="text-align:justify;text-justify:inter-ideograph">2020/10/31, I was invited to serve as the Technical Program Committee Member of the <b><i>IJCAI2021</i> </b>, which will be held in Aug. 2021, Montreal, Canada.</div>
+*  <div style="text-align:justify;text-justify:inter-ideograph">2020/10/22, One co-authored paper was accepted by <b><i>IEEE Transactions on Image Processing (CCF-A, IF=10.856)</i> </b>.</div>
+*  <div style="text-align:justify;text-justify:inter-ideograph">2020/10/27, One paper was accepted by <b><i>IEEE Transactions on Industrial Informatics (IF=10.215)</i> </b>.</div>
 
 <h3>Publications</h3>
 <h4>Submitted</h4>
