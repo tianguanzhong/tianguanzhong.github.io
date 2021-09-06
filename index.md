@@ -36,7 +36,7 @@ I am currently recruiting both Ph.D./Graduate/Undergraduate students. Requiremen
 
 <h3>Recent News</h3>
 *  <div style="text-align:justify;text-justify:inter-ideograph">2021/09/05, One co-authored paper was accepted by <b><i>IEEE Transactions on Image Processing (IF=10.856) </i> </b>.</div>
-*  *  <div style="text-align:justify;text-justify:inter-ideograph">2021/09/05, One paper was accepted by <b><i>IEEE Transactions on Broadcasting (IF=3.863) </i> </b>.</div>
+*  <div style="text-align:justify;text-justify:inter-ideograph">2021/09/05, One paper was accepted by <b><i>IEEE Transactions on Broadcasting (IF=3.863) </i> </b>.</div>
 *  <div style="text-align:justify;text-justify:inter-ideograph">2021/07/11, One paper (corresponding author) was accepted by <b><i>IEEE Signal Processing Letters (IF=3.109) </i> </b>.</div>
 *  <div style="text-align:justify;text-justify:inter-ideograph">2021/05/14, One co-authored paper was accepted by <b><i>IEEE Transactions on Circuits and Systems for Video Technology (IF=4.685) </i> </b>. </div>
 *  <div style="text-align:justify;text-justify:inter-ideograph">2021/05/13, One paper (corresponding author) was accepted by <b><i>IEEE Transactions on Multimedia (IF=6.513) </i> </b>. </div>
