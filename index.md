@@ -148,7 +148,7 @@ I am currently recruiting both Ph.D./Graduate/Undergraduate students. Requiremen
 *  **Technical Program Committee Member**:
     - International Joint Conference on Artificial Intelligence (IJCAI) 2021
     - ACM Multimedia (ACM MM) 2021
-    - IEEE International Conference on Multimedia & Expo (ICME) 2020、2021
+    - IEEE International Conference on Multimedia & Expo (ICME) 2020、2021(AC)、2022(AC)
     - IEEE International Conference on Image Processing (ICIP) 2018、2019
     - IEEE Visual Communiaction and Image Processing (VCIP) 2017-2020
     - Asia-Pacific Signal and Information Processing Association (APSIPA) ASC 2020
