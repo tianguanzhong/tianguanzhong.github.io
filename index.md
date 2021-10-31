@@ -1,5 +1,5 @@
 <div style="width: 100%">
-  <table align="center" style="display:block;">
+  <table align="center" style="display:block; width: 100%;">
     <tbody style="height: 200px; display: inline-block; width: 100%; overflow: auto;"><tr>
       <td>
         <span class="blue_2"><font size="5"><strong>Qiuping Jiang</strong></font></span><br>
