@@ -31,7 +31,7 @@ I am currently an Associate Professor at Ningbo University, Ningbo, China. I obt
 
 <h3>Student Recruitment</h3>
 <p style="text-align:justify; text-justify:inter-ideograph;">
-I am currently recruiting both Ph.D./Graduate/Undergraduate students. Requirements: 1) B.Sc. or Master degree in Computer Science or Electronic Engineering, in particular those with good mathematics, algorithm or programming background. 2) Must be self-motivated. 3) Work or study in the area of visual perception, image/video signal processing, or multimedia system. If you are interested, please fell free to contact me via email.
+I am currently recruiting both Ph.D. and Master students with strong interests in the area of Computer Vision (CV) and Image Processing (IP). Requirements: 1) Master or B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good Mathematics, English and Programming (MEP) backgrounds. 2) Must be highly self-motivated. If you are interested, please fell free to contact me via email.
 </p>
 
 <h3>Recent News</h3>
