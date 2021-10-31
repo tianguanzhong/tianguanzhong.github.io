@@ -1,29 +1,31 @@
-<table align="center" style="width:100%">
-  <tbody><tr>
-    <td>
-      <span class="blue_2"><font size="5"><strong>Qiuping Jiang</strong></font></span><br>
-      Ph.D., Associate Professor<br>
-      Email: jiangqiuping@nbu.edu.cn<br>
-      <a href="http://eecs.nbu.edu.cn/">School of Information Science and Engineering</a>, <a href="http://www.nbu.edu.cn/">Ningbo University</a><br>
-      <a href="https://scholar.google.com/citations?user=PbPTiKYAAAAJ/">[Google Scholar]</a><a href="https://www.scholat.com/jiangqp">[中文主页]</a><a href="姜求平_宁波大学.pdf" target="_blank">[中文简历]</a><br><br>
-      <span class="blue_2"><font size="4"><strong>Research Interests</strong></font></span><br>
-      Perceptual Image/Video Quality Assessment<br>
-      Visual Attention Modeling<br>
-      Immersive Multimedia Computing<br>
-      Deep Learning with Applications in Computer Vision<br>
-    </td>
-    <td>
-      <img src="picture.png" alt="Drawing" style="
-      height: 300px;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-      -moz-border-radius: 5px;
-      -khtml-border-radius: 5px;
-      -webkit-border-radius: 5px;">
-    </td>
-  </tr></tbody>
-</table>
-
+<div style="width: 100%">
+  <table align="center" style="display:block;">
+    <tbody><tr>
+      <td>
+        <span class="blue_2"><font size="5"><strong>Qiuping Jiang</strong></font></span><br>
+        Ph.D., Associate Professor<br>
+        Email: jiangqiuping@nbu.edu.cn<br>
+        <a href="http://eecs.nbu.edu.cn/">School of Information Science and Engineering</a>, <a href="http://www.nbu.edu.cn/">Ningbo University</a><br>
+        <a href="https://scholar.google.com/citations?user=PbPTiKYAAAAJ/">[Google Scholar]</a><a href="https://www.scholat.com/jiangqp">[中文主页]</a><a href="姜求平_宁波大学.pdf" target="_blank">[中文简历]</a><br><br>
+        <span class="blue_2"><font size="4"><strong>Research Interests</strong></font></span><br>
+        Perceptual Image/Video Quality Assessment<br>
+        Visual Attention Modeling<br>
+        Immersive Multimedia Computing<br>
+        Deep Learning with Applications in Computer Vision<br>
+      </td>
+      <td>
+        <img src="picture.png" alt="Drawing" style="
+        height: 300px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        -moz-border-radius: 5px;
+        -khtml-border-radius: 5px;
+        -webkit-border-radius: 5px;">
+      </td>
+    </tr></tbody>
+  </table>
+</div>
+  
 <h3>Short Biography</h3>
 <p style="text-align:justify; text-justify:inter-ideograph;">
 I am currently an Associate Professor at Ningbo University, Ningbo, China. I obtained my Ph.D. degree in Signal and Information Processing from Ningbo University in June 2018. From Jan. 2017 to May 2018, I was a visiting Ph.D. student at Nanyang Technological University, Singapore.
