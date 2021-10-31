@@ -1,5 +1,5 @@
 <table align="center">
-  <tbody><tr>
+  <tbody style="width:100%"><tr>
     <td>
       <span class="blue_2"><font size="5"><strong>Qiuping Jiang</strong></font></span><br>
       Ph.D., Associate Professor<br>
