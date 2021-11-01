@@ -34,9 +34,9 @@
 
 <h3>Student Recruitment</h3>
 <p style="text-align:justify; text-justify:inter-ideograph;">
-I am currently recruiting both Ph.D. and Master students with strong interests in the area of computer vision and image processing. <br>
-Requirements: 1) Master or B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good Mathematics, English and Programming backgrounds. 2) Must be highly self-motivated. <br>
-If you are interested, please fell free to contact me via email with your detailed CV.
+* I am currently recruiting both Ph.D. and Master students with strong interests in the area of computer vision and image processing. <br>
+* <b>Requirements</b>: 1) Master or B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good Mathematics, English and Programming backgrounds. 2) Must be highly self-motivated. <br>
+* If you are interested, please fell free to contact me via email with your detailed CV.
 </p>
 
 <h3>Recent News</h3>
