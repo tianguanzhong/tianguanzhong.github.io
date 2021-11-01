@@ -9,7 +9,7 @@
         <a href="https://scholar.google.com/citations?user=PbPTiKYAAAAJ/">[Google Scholar]</a><a href="https://www.scholat.com/jiangqp">[中文主页]</a><a href="姜求平_宁波大学.pdf" target="_blank">[中文简历]</a><br><br>
         <span class="blue_2"><font size="4"><strong>Research Interests</strong></font></span><br>
         Perceptual Image/Video Quality Assessment<br>
-        Visual Attention Modeling<br>
+        Visual Perception Modeling<br>
         Immersive Multimedia Computing<br>
         Deep Learning with Applications in Computer Vision<br>
       </td>
@@ -28,12 +28,12 @@
   
 <h3>Short Biography</h3>
 <p style="text-align:justify; text-justify:inter-ideograph;">
-I am currently an Associate Professor at Ningbo University, Ningbo, China. I obtained my Ph.D. degree in Signal and Information Processing from Ningbo University in June 2018. From Jan. 2017 to May 2018, I was a visiting Ph.D. student at Nanyang Technological University, Singapore.
+Qiuping Jiang (姜求平) is an Associate Professor with the School of Information Science and Engineering, Ningbo University, Ningbo, China. He received the Ph.D. degree in Signal and Information Processing from Ningbo University, in June 2018. From Jan. 2017 to May 2018, Dr. Jiang was a Visiting Ph.D. student with the School of Computer Science and Engineering, Nanyang Technological University (NTU, Singapore, under the supervision of <a href="https://personal.ntu.edu.sg/wslin/">Prof. Weisi Lin</a> (IEEE Fellow). His current research interests include perceptual image/video processing, visual perception modeling, and deep learning with applications in image processing and computer vision, etc. In these research areas, Dr. Jiang has published over 60 academic papers and most of them were published in IEEE Transactions such as IEEE TIP, TCYB, TNNLS, TII, TMM, TCSVT, TCI, TBC, and TIM, etc. Dr. Jiang was a recipient of the Top Talent of Ningbo Municipality (宁波市拔尖人才), the Innovative Talents of Ningbo Pan-3315 Plan (宁波市泛3315计划创新人才), the East Zhejiang Young Scholar of Ningbo University (宁波大学浙东青年学者), the Excellent Doctoral Dissertation Nomination Award of Zhejiang Province (浙江省优秀博士学位论文提名), the 2017 JVCI Best Paper Hornerable Mention Award (JVCI期刊最佳论文提名奖), the Excellent Scientific Paper Award (Second Prize) of Ningbo Nunicipality (宁波市自然科学优秀论文二等奖), and the Cao Guangbiao Scientific Research Achievement (First Prize) of Ningbo University (宁波大学曹光彪科研成果一等奖).
 </p>
 
 <h3>Student Recruitment</h3>
 <p style="text-align:justify; text-justify:inter-ideograph;">
-I am currently recruiting both Ph.D. and Master students with strong interests in the area of Computer Vision (CV) and Image Processing (IP). Requirements: 1) Master or B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good Mathematics, English and Programming (MEP) backgrounds. 2) Must be highly self-motivated. If you are interested, please fell free to contact me via email.
+I am currently recruiting both Ph.D. and Master students with strong interests in the area of computer vision and image processing. Requirements: 1) Master or B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good Mathematics, English and Programming backgrounds. 2) Must be highly self-motivated. If you are interested, please fell free to contact me via email with your detailed CV.
 </p>
 
 <h3>Recent News</h3>
