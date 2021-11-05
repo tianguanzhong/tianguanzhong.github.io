@@ -6,7 +6,7 @@
         Ph.D., Associate Professor<br>
         Email: jiangqiuping@nbu.edu.cn<br>
         <a href="http://eecs.nbu.edu.cn/">School of Information Science and Engineering</a>, <a href="http://www.nbu.edu.cn/">Ningbo University</a><br>
-        <a href="https://scholar.google.com/citations?user=PbPTiKYAAAAJ/">[Google Scholar]</a><a href="https://www.scholat.com/jiangqp">[中文主页]</a><a href="姜求平_宁波大学.pdf" target="_blank">[中文简历]</a><br><br>
+        <a href="https://scholar.google.com/citations?user=PbPTiKYAAAAJ/">[Google Scholar]</a><a href="姜求平_宁波大学.pdf" target="_blank">[中文简历]</a><br><br>
         <span class="blue_2"><font size="4"><strong>Research Interests</strong></font></span><br>
         Perceptual Image/Video Quality Assessment<br>
         Visual Perception Modeling<br>
