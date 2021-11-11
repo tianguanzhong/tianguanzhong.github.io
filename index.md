@@ -63,7 +63,6 @@
 <li style="margin-bottom: 15px"><b>Qiuping Jiang</b>, Yudong Mao, Runmin Cong, Wenqi Ren, Chao Huang, Feng Shao, "Unsupervised Decomposition and Correction Network for Low-light Image Enhancement," <i><b>IEEE Transactions on Intelligent Transportation Systems (TITS)</b></i>, submitted, 2021. </li>
 <li style="margin-bottom: 15px"><b>Qiuping Jiang</b>, Yuese Gu, Chongyi Li, Runmin Cong, Feng Shao, "Quality Evaluation of Underwater Image Enhancement: Subjective Study and Objective Metric," <i><b>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</b></i>, submitted, 2021. </li>
 <li style="margin-bottom: 15px"><b>Qiuping Jiang</b>, Zhentao Liu, Shiqi Wang, Feng Shao, Weisi Lin, "Towards Top-Down Just Noticeable Difference Estimation of Natural Images," <i><b>IEEE Transactions on Image Processing (TIP)</b></i>, submitted, 2021. </li>
-<li style="margin-bottom: 15px">Zhenqi Fu, Wu Wang, <b>Qiuping Jiang</b>, Yue Huang, Xinghao Ding, "IPE-Net: A Hierarchical Probabilistic Network for Image Enhancement via Modeling Appearance Ambiguities," <i><b>IEEE Transactions on Image Processing (TIP)</b></i>, submitted, 2021. </li>
 <li style="margin-bottom: 15px">Xiaoyu Zhang, Wei Gao, <b>Qiuping Jiang</b>, Runmin Cong, Ge Li, "HDRL: Reinforcement Learning for Mixed Distorted Image Restoration," <i><b>ACM Transactions on Multimedia Computing, Communications, and Applications (ACM-TOMM)</b></i>, submitted, 2021. </li> </ol> </div>
 
 <h4>2021</h4>
