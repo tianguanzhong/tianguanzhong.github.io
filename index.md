@@ -36,7 +36,7 @@
 * <div style="text-align:justify;text-justify:inter-ideograph">If you are interested, please fell free to contact me via email with your detailed CV. </div>
 
 <h3>Recent News</h3>
-*  <div style="text-align:justify;text-justify:inter-ideograph"><img src="new.gif"> 2021/11/10, One co-authored paper was accepted by <b><i>IEEE Transactions on Cybernetics (IF=10.215)</i> </b>.</div>
+*  <div style="text-align:justify;text-justify:inter-ideograph"><img src="new.gif"> 2021/11/10, One co-authored paper was accepted by <b><i>IEEE Transactions on Cybernetics (IF=11.448)</i> </b>.</div>
 *  <div style="text-align:justify;text-justify:inter-ideograph"><img src="new.gif"> 2021/10/29, I was invited to serve as the Area Chair of the <b><i>ICME2021</i> </b>, which will be held in July 18-22, 2022, Taipei, Taiwan.</div>
 *  <div style="text-align:justify;text-justify:inter-ideograph"><img src="new.gif"> 2021/10/29, One co-authored paper was accepted by <b><i>IEEE Transactions on Industrial Informatics (IF=10.215)</i> </b>.</div>
 *  <div style="text-align:justify;text-justify:inter-ideograph"><img src="new.gif"> 2021/10/25, One co-authored paper was accepted by <b><i>IEEE Transactions on Multimedia (IF=6.513)</i> </b>. </div>
