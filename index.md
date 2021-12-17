@@ -6,7 +6,7 @@
         Ph.D., Associate Professor<br>
         Email: jiangqiuping@nbu.edu.cn<br>
         <a href="http://eecs.nbu.edu.cn/">School of Information Science and Engineering</a>, <a href="http://www.nbu.edu.cn/">Ningbo University</a><br>
-        <a href="https://scholar.google.com/citations?user=PbPTiKYAAAAJ/">[Google Scholar]</a><a href="姜求平_宁波大学.pdf" target="_blank">[中文简历]</a><br><br>
+        <a href="https://scholar.google.com/citations?user=PbPTiKYAAAAJ/">[Google Scholar]</a><a href="姜求平_宁波大学.pdf" target="_blank">[中文简历]</a><br>
         <span class="blue_2"><font size="4"><strong>Research Interests</strong></font></span><br>
         Perceptual Image/Video Quality Assessment<br>
         Visual Perception Modeling<br>
@@ -33,7 +33,7 @@
 <h3>Student Recruitment</h3>
 * <div style="text-align:justify;text-justify:inter-ideograph">I am currently recruiting both Ph.D. and Master students with strong interests in the area of computer vision and image processing. </div>
 * <div style="text-align:justify;text-justify:inter-ideograph">Requirements: 1) Master or B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good Mathematics, English and Programming backgrounds. 2) Must be highly self-motivated. </div>
-* <div style="text-align:justify;text-justify:inter-ideograph">If you are interested, please fell free to contact me via email with your detailed CV. </div>
+* <div style="text-align:justify;text-justify:inter-ideograph">If you are interested, please fell free to contact me via email with your detailed CV. <a href="ToProspectiveStudents.pdf" target="_blank">[课题组简介]</a></div>
 
 <h3>Recent News</h3>
 *  <div style="text-align:justify;text-justify:inter-ideograph"><img src="new.gif"> 2021/11/10, One co-authored paper was accepted by <b><i>IEEE Transactions on Cybernetics (IF=11.448)</i> </b>.</div>
