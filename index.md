@@ -27,7 +27,7 @@
 </div>
 
 <h3>招生信息【置顶】</h3>
-<p style="text-align:justify; text-justify:inter-ideograph;"><img src="new.gif"><a href="ToProspectiveStudents.pdf" target="_blank">[欢迎加入宁波大学“视觉信息感知与处理”课题组，点击此处查看]</a>。</p>
+<p style="text-align:justify; text-justify:inter-ideograph;"><img src="new.gif"><a href="ToProspectiveStudents.pdf" target="_blank">[欢迎加入宁波大学“视觉信息感知与处理”课题组，点击此处查看]</a></p>
 <p style="text-align:justify; text-justify:inter-ideograph;">感兴趣的同学，请附上详细的个人简历与我邮件联系。</p>
   
 <h3>Biography</h3>
