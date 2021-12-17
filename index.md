@@ -31,9 +31,7 @@
 <p style="text-align:justify; text-justify:inter-ideograph;">姜求平，男，浙江衢州人，1991年7月出生，工学博士，宁波大学通信工程系副教授/硕士生导师，浙江省杰出青年科学基金获得者、宁波市拔尖人才、宁波市“泛3315计划”创新个人、宁波大学“浙东青年学者”培养对象。主要研究方向为图像处理、视觉感知计算与计算机视觉等，主持国家自然科学基金（青年）、浙江省自然科学基金（杰青）等各类科研项目5项。在IEEE TIP、TCYB、TMM、TCSVT、ACM MM 等领域内重要国际期刊/会议上发表论文60余篇，其中IEEE期刊论文38篇，2篇论文入选ESI高被引，谷歌学术引用1000余次。获授权国家发明专利20余项，其中多项实现技术转让。获SCI期刊《Journal of Visual Communication and Image Representation》最佳论文提名奖、浙江省优秀博士学位论文提名、宁波市自然科学优秀论文二等奖等科研奖励和荣誉。担任IEEE TIP、TCYB、TMM、TCSVT等多个顶级期刊审稿人以及IJCAI、ACM MM、ICME、ICIP等多个重要国际学术会议的领域主席和程序委员会委员。</p>
 
 <h3>Student Recruitment</h3>
-* <div style="text-align:justify;text-justify:inter-ideograph">I am currently recruiting both Ph.D. and Master students with strong interests in the area of computer vision and image processing. </div>
-* <div style="text-align:justify;text-justify:inter-ideograph">Requirements: 1) Master or B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good Mathematics, English and Programming backgrounds. 2) Must be highly self-motivated. </div>
-* <div style="text-align:justify;text-justify:inter-ideograph">Detailed information can be found in <a href="ToProspectiveStudents.pdf" target="_blank">[ToProspectiveStudents]</a>. If you are interested, please fell free to contact me via email with your detailed CV. </div>
+* <div style="text-align:justify;text-justify:inter-ideograph"><a href="ToProspectiveStudents.pdf" target="_blank">[欢迎加入宁波大学“视觉信息感知与处理”课题组，点击此处查看]</a>. 感兴趣的同学，请附上详细的个人简历与我邮件联系。</div>
 
 <h3>Recent News</h3>
 *  <div style="text-align:justify;text-justify:inter-ideograph"><img src="new.gif"> 2021/11/10, One co-authored paper was accepted by <b><i>IEEE Transactions on Cybernetics (IF=11.448)</i> </b>.</div>
