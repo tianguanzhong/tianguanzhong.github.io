@@ -33,7 +33,7 @@
 <h3>Student Recruitment</h3>
 * <div style="text-align:justify;text-justify:inter-ideograph">I am currently recruiting both Ph.D. and Master students with strong interests in the area of computer vision and image processing. </div>
 * <div style="text-align:justify;text-justify:inter-ideograph">Requirements: 1) Master or B.Sc. degree in Computer Science or Electronic Engineering, in particular those with good Mathematics, English and Programming backgrounds. 2) Must be highly self-motivated. </div>
-* <div style="text-align:justify;text-justify:inter-ideograph">If you are interested, please fell free to contact me via email with your detailed CV. <a href="ToProspectiveStudents.pdf" target="_blank">[课题组简介]</a></div>
+* <div style="text-align:justify;text-justify:inter-ideograph">Detailed information can be found in <a href="ToProspectiveStudents.pdf" target="_blank">[ToProspectiveStudents]</a>. If you are interested, please fell free to contact me via email with your detailed CV. </div>
 
 <h3>Recent News</h3>
 *  <div style="text-align:justify;text-justify:inter-ideograph"><img src="new.gif"> 2021/11/10, One co-authored paper was accepted by <b><i>IEEE Transactions on Cybernetics (IF=11.448)</i> </b>.</div>
